@@ -18,7 +18,7 @@
 
 MoBa Wiki includes a syntax library for variables that may be helpful when analyzing data from MoBa. The aim is to build a more extensive syntax library covering different types of variables based on data from all MoBa questionnaires. 
 
-Please contact [MorBarnData@fhi.no](MorBarnData@fhi.no) if you have syntax on how to generate variables based on data from MoBa that you think might be helpful to other research projects. Please use the [template](https://mobawiki.fhi.no/mobawiki/index.php/Template) when sending syntax to MoBa. 
+Please contact [MorBarnData@fhi.no](mailto:MorBarnData@fhi.no) if you have syntax on how to generate variables based on data from MoBa that you think might be helpful to other research projects. 
 
 **All syntax published on the MoBa Wiki page is checked by MoBa, but MoBa is not responsible for any errors in the study results that are caused by errors in syntax.** 
 
