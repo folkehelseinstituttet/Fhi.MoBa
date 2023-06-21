@@ -1,6 +1,6 @@
-﻿Main Page 
+#﻿Main Page 
 
-Welcome to MoBa Wiki, 
+##Welcome to MoBa Wiki, 
 
 **a web page that includes all documentation needed for analyzing data from MoBa.** 
 
