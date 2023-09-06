@@ -1,4 +1,5 @@
-# About the Norwegian Mother and Child Cohort Study (MoBa)
+# MoBa
+## About the Norwegian Mother and Child Cohort Study (MoBa)
 The Norwegian Mother and Child Cohort Study (MoBa) is a population-based cohort study that includes more than 100 000 pregnancies. The study was established in Western Norway in June 1999. By 2006, 50 of 52 maternity units with more than 100 births annually participated in the study. The pregnant women recieved a postal invitation to participate in the study together with appointment for ultrasound scanning in week 17-18 in pregnancy. All women who agreed to participate received three questionnaires during pregnancy at pregnancy week 17, 22 and 30, and received a questionnaire when the child was 6 months, 18 months, 3 years, 5 years, 7 years and 8 years old. The father received a questionnaire during pregnancy. In addition a blood and urine sample was taken from the mother at the ultrasound examination, and a blood sample were taken from the mother and from the umbilical cord at birth.
 
 For more information about the cohort, please visit the MoBa website at the [Norwegian Institute of Public Health's homepage](https://www.fhi.no/en/ch/studies/moba/).
