@@ -55,8 +55,8 @@ This is corrected in data files made available after 09.04.2021.
 ## Major changes in version 11
 #### MoBa’s 18 year olds
 MoBa is currently working with an invitation for participating MoBa children that have turned 18 years of age. Data for children turning 18 years of age by the end of 2018 is not included in MoBa Version 11. A new version of MoBa will be published when this work is completed.
-8 years questionnaire (Q8Y)
-#### The 8 years questionnaire (Q8Y) is considered to be complete in Version 11 (See wiki page Response rate).
+#### 8 years questionnaire (Q8Y)
+The 8 years questionnaire (Q8Y) is considered to be complete in Version 11 (See wiki page Response rate).
 #### Father's questionnaire no. 2 (QF2)
 Data for Father's questionnaire no. 2 is included in Version 11. Se wiki page about Father's questionnaire no. 2 for more information.
 
@@ -72,10 +72,11 @@ Calculations have been rerun with a few minor changes.
 
 ## Major changes in version 10
 Changes in the coding of variables
-3 years questionnaire (Q6)
+#### 3 years questionnaire (Q6)
 In previous MoBa versions dichotomous variables in the web version of the 3 years questionnaire was coded ‘0’ when there was no tick, instead of a blank (missing) value. In MoBa version 10 this has been corrected and these variables are now coded with a blank (missing) value when there is no tick.
-7 years questionnaire (Q7y)
+#### 7 years questionnaire (Q7y)
 In previous MoBa versions there has been an error in the response categories for question 21_2 and 21_3, regarding wood-burning heating in the home for the web version of the 7 years questionnaire. The response category “No” was coded “Yes” and vice versa. For MoBa version 10 this has been corrected.
-Questions
+
+## Questions
 If you have questions or comments about the data files or suspect that something can be incorrect in labels or other documentation, please contact us at MorBarnData@fhi.no.
  
