@@ -1,15 +1,1 @@
-## Welcome to MoBa Wiki
 
-This web page includes all documentation needed for analyzing data from MoBa. 
-
-## MoBa research data files 
-
-An overview of MoBa-data files made available to researchers can be viewed here. 
-
-## Would you like to contribute with syntax to MoBa's syntax library? 
-
-MoBa Wiki includes a syntax library for variables that may be helpful when analyzing data from MoBa. The aim is to build a more extensive syntax library covering different types of variables based on data from all MoBa questionnaires. 
-
-Please contact MorBarnData@fhi.no if you have syntax on how to generate variables based on data from MoBa that you think might be helpful to other research projects. Please use the template when sending syntax to MoBa. 
-
-All syntax published on the MoBa Wiki page is checked by MoBa, but MoBa is not responsible for any errors in the study results that are caused by errors in syntax. 
