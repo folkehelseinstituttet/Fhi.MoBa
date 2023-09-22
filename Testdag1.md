@@ -4,4 +4,4 @@
 
 ## Ferdig gjennomgått:
 1. Main page
-2. About
+2. About (må oppdatere linker)
