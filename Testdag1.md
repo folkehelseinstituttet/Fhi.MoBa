@@ -3,5 +3,5 @@
 
 
 ## Ferdig gjennomgått:
-1. Main page
+1. Main page (må oppdatere linker)
 2. About (må oppdatere linker)
