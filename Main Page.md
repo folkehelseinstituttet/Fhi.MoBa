@@ -6,9 +6,7 @@
 
 ### MoBa research data files 
 
-An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/op/data-access-from-health-registries-health-studies-and-biobanks/data-from-moba/moba-research-data-files/) 
-
-
+An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/) 
 
 ### Would you like to contribute with syntax to MoBa's syntax library? 
 
