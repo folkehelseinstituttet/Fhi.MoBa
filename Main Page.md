@@ -6,11 +6,7 @@
 
 ### MoBa research data files 
 
-* Version 12 was made available to researchers in January 2019. 
-
-* Version 11 was made available to researchers in August 2018. 
-
-* Version 10 of the MoBa-data file was made available to researchers in July 2017. In version 10, all participant forms up until the 8 years questionnaire are complete. Read more about this [here](https://www.fhi.no/en/op/data-access-from-health-registries-health-studies-and-biobanks/data-from-moba/moba-research-data-files/) 
+An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/op/data-access-from-health-registries-health-studies-and-biobanks/data-from-moba/moba-research-data-files/) 
 
 
 
