@@ -1,5 +1,5 @@
 # Read this before analyses
-#### Please read the following important information regarding data from the Norwegian Mother and Child Cohort Study (MoBa) before analyzing the data.
+#### Please read the following important information regarding data from the Norwegian Mother, Father and Child Cohort Study (MoBa) before analyzing the data.
 ## Description
 Most of the documentation at the MoBa Wiki web site is translated into English, although some documentation is only available in Norwegian.
 #### Versions of questionnaires
