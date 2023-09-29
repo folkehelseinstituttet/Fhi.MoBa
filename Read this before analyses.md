@@ -3,7 +3,7 @@
 ## Description
 Most of the documentation at the MoBa Wiki web site is translated into English, although some documentation is only available in Norwegian.
 #### Versions of questionnaires
-There are more than one version of each questionnaire (A, B, C, ..). Many questions are identical across versions and the data is stored in the same variable. Where the questions differs significally between versions data is stored in separate variables. A few questions are version specific. In addition, there are web versions (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. An overview of all questionnaires can be found on the wiki page Questionnaires and on fhi.no (English versions, Norwegian versions)
+There are more than one version of each questionnaire (A, B, C, ..). Many questions are identical across versions and the data is stored in the same variable. Where the questions differs significally between versions data is stored in separate variables. A few questions are version specific. In addition, there are web versions (W) for the dietary (Q2), 3 year (Q6) and 7 year (Q7) questionnaire. An overview of all questionnaires can be found on the wiki page Questionnaires and on fhi.no ([English versions](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/questionnaires-from-moba/), [Norwegian versions](https://www.fhi.no/op/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/))
 #### Variable names
 The variable names consist of two letters and a number. In questionnaire 1 (Q1) all variables (corresponding to questions) are named ‘AA’ followed by a number. In questionnaire 3 (Q3) all variables (corresponding to questions) are named ‘CC’ followed by a number.
 #### Variable labels
