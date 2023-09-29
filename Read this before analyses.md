@@ -15,7 +15,7 @@ The variable labels include the following information:
 Note that the question number may differ in different versions of the questionnaire. For the majority of the questionnaires, labels have been translated into English. 
 ## Coding of variables (under arbeid)
 It is essential to know the basic rules applied for coding of data before analyzing the data. A categorical variable is coded ‘1’ for the first category, ‘2’ for the second category, and so on. Normally, the answer category ‘No’ is coded ‘1’ and ‘Yes’ is coded ‘2’. However, in some cases it might be opposite, where ‘Yes’ is coded ‘1’ and ‘No’ is coded ‘2’. In general, one should always check the questionnaires for the correct sequence of categories. Dichotomous variables are coded ‘1’ for a tick and a blank (missing) value when there is no tick.
-### Specific for Questionnaire on paper
+### Questionnaire on paper
 Variables corresponding to questions where only one answer is intended (index variables) are coded ‘0’ if more than one answer is given. However, some index variables are given valid codes for combinations of two or more ticks. This recoding work is ongoing. 
 
 ### Data based on free text
@@ -42,7 +42,7 @@ Note that we have observed some evident errors in the variable ”Date for filli
 The variable ‘ALDERUTFYLT_Sx’ is calculated from the date when the questionnaire was submitted by the respondant.
 
 ### Number of responses
-#### Specific for Questionnaire on paper
+#### Only applies to Questionnaire on paper
 A category of variables has been generated, providing the total number of responses filled in on each page of the questionnaire by the respondent. The variable names consist of the questionnaire number and page number; Q1P1, Q1P2 etc. Note that a question may be placed on different pages in different versions of the same questionnaire. These variables are meant to simplify quality control of the data for users and the interpretation of, for instance, missing values (e.g. without noticing, some women have left two pages blank because two sheets have been stuck together).
 ### Generated variables from the dietary questionnaire during pregnancy (Q2)
 38 variables are generated from the dietary questionnaire and are included in the file “Q2_calculation”. These variables are calculated by use of the Norwegian Food Composition Table 2001. Note that dietary supplements are not included in the intake calculations of vitamins and minerals. The variable ‘VERSJON_KOST_TBL1’ specify which version (KOST_A=A/B or KOST_B=C/D/W) of the dietary questionnaire the calculations are based on. Questionnaires A and B are very different from questionnaires C, D and W. In version A and B the women are asked what they have been eating the last 12 months before they became pregnant, while in version C, D and W they are asked what they have been eating since they became pregnant and until the day they filled out the questionnaire (about week 17-22).
