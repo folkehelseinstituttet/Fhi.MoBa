@@ -13,7 +13,7 @@ The variable labels include the following information:
 3. The question text
 
 Note that the question number may differ in different versions of the questionnaire. For the majority of the questionnaires, labels have been translated into English. 
-## Coding of variables (under arbeid)
+## Coding of variables 
 It is essential to know the basic rules applied for coding of data before analyzing the data. A categorical variable is coded ‘1’ for the first category, ‘2’ for the second category, and so on. Normally, the answer category ‘No’ is coded ‘1’ and ‘Yes’ is coded ‘2’. However, in some cases it might be opposite, where ‘Yes’ is coded ‘1’ and ‘No’ is coded ‘2’. In general, one should always check the questionnaires for the correct sequence of categories. Dichotomous variables are coded ‘1’ for a tick and a blank (missing) value when there is no tick.
 ### Questionnaire on paper
 Variables corresponding to questions where only one answer is intended (index variables) are coded ‘0’ if more than one answer is given. However, some index variables are given valid codes for combinations of two or more ticks. 
@@ -49,19 +49,19 @@ A category of variables has been generated, providing the total number of respon
 Note that data from the first two versions (A and B) of the diet questionnaire, are given in separate files only by request, since they are not comparable to the questionnaires C, D and W.
 ### Merging data files
 Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following
-* Data files based on data before birth (questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3)): Include a unique identifier for pregnancy, called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
-* Data files based on data after birth (questionnaire at 6 months (Q4), 18 months (Q5), 3 years (Q6), 5 years (Q5Y), 7 years (Q7Y) etc.): Include a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
-* For the second Father questionnaire (QF2): Se wiki page about Father's questionnaire no. 2.
+* **Data files based on data before birth** *(questionnaire at week 15-17 of pregnancy (Q1, QF), Week 22 of pregnancy (Q2), Week 30 of pregnancy(Q3))*: Include a unique identifier for pregnancy called ‘PREG_ID_XX’. This variable must be used as the key variable when merging files.
+* **Data files based on data after birth** *(questionnaire at 6 months (Q4), 18 months (Q5), 3 years (Q6), 5 years (Q5Y), 7 years (Q7Y) etc.)*: Include a identifier for pregnancy (‘PREG_ID_XX’) and a identifier for the child (‘BARN_NR’). Both variables ‘PREG_ID_XX’ and ‘BARN_NR’ must be used when merging files based on data after birth to ensure that data is linked correctly for twins/triplets.
+* **For the second Father questionnaire** *(QF2)*: Se wiki page about Father's questionnaire no. 2.
 
 Syntax for merging files can be found on the wiki page Merge files.
-Some participants will have data from all 11 questionnaires and MBRN, while others will only have data from one source (one questionnaire or MBRN). It is crucial to be aware of this when interpreting missing values. The data set “SV_INFO” includes a unique identifier for each woman called ‘M_ID_XX’. This variable can be used to identify women who participate with more than one pregnancy and hence identify siblings.
+Some participants will have data from all questionnaires, while others will only have data from one questionnaire. It is crucial to be aware of this when interpreting missing values. The data set “SV_INFO” includes a unique identifier for each woman called ‘M_ID_XX’. This variable can be used to identify women who participate with more than one pregnancy and hence identify siblings.
 ## Important considerations
 Not all questions are present in every version of a questionnaire. Hence, a variable may have a missing value because the respondent has answered a version of the questionnaire that does not include the specific question. The variable label indicates in which version(s) a specific question was asked, while the variable ‘VERSJON_SKJEMAX_TBL1’ indicates which version of the questionnaire each respondent has answered. If you want to use a variable not included in e.g. version A of a questionnaire, you can use ‘VERSJON_SKJEMAX_TBL1’ to remove version A-respondents from the data set.
 We urge you to consider how the specific question may be interpreted by the respondent. If a respondent has answered “No” to a question, he/she may not have answered the follow-up questions and the corresponding variable(s) will have a missing value. Some respondents may also have answered inconsistently, e.g. answered “No” when asked “Have you ever smoked?” and answered “Daily” when asked “Do you smoke now?”. Therefore, it is important to check for inconsistency.
-For twins and triplets, the mother fills out one questionnaire for each child after birth (questionnaire 6 months, 18 months, 3 years, 5 years, 7 years and 8 years). The mothers are told to fill in the section “About yourself” for the first child only. MoBa have not duplicated this information to the other sibling(s). These variables are usually missing for one of the twins or two of the triplets.
+For twins and triplets, the mother fills out one questionnaire for each child after birth (i.e. questionnaire 6 months, 18 months, 3 years, 5 years, 7 years and 8 years). The mothers are told to fill in the section “About yourself” for the first child only. MoBa have not duplicated this information to the other sibling(s). These variables are usually missing for one of the twins or two of the triplets.
 ## Formats in SAS
 A format file should be included in data deliveries for SAS users. To open and read SAS datasets you need to include ‘OPTIONS FMTSEARCH=(libname);’ (libname is the path where the format file is stored). Editor files to add value and variable labels are included with the data files.
-## Major changes in version 12
+## Major changes in version 12 (under arbeid)
 Questionnaire 2 (Q2)
 In the English data file for Questionnaire 2 (Q2CDW_V12), the labels for question T_10_2 (BB163-BB165) and T_10_3 (BB166-BB168) have been exchanged. The correct labels are:
 T_10_2 Sweetened muesli with dried fruit, nuts etc.; 10. How often have you eaten breakfast cereals or porridge on average since you became pregnant?
