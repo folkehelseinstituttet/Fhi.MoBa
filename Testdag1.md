@@ -5,3 +5,4 @@
 ## Ferdig gjennomgått:
 1. Main page (må oppdatere linker)
 2. About (må oppdatere linker)
+3. Read this before analyses (må oppdatere avsnitt om major changes). Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre. 
