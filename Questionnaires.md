@@ -24,7 +24,71 @@ Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument d
 | 1C/D* | Skjema1C/D.pdf | Questionnaire1C/D.pdf | Questionnaire1C/D.pdf | Skjema1C/D.pdf | 03.2003 - 11.2006 | 54.116 |
 | 1E | Skjema1E.pdf |  |  | Skjema1E.pdf | 12.2006 - 01.2009 | 25.072 |
 
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 2A | Skjema2A.pdf | | | | 06.1999 - 02.2000 | 729 |
+| 2B | Skjema2B.pdf | | | | 02.2000 - 01.2002 | 8.582 |
+| 2C | Skjema2C.pdf | Questionnaire2C.pdf | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
+| 2D | Skjema2D.pdf | Questionnaire2D.pdf | Questionnaire2D.pdf | | 08.2003 - 02.2009 | 63.912 |
+| 2 Web (identical to D) | | | | | 09.2006 - 02.2009 | 4.846 |
 
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 3A | Skjema3A.pdf | | | | 01.2000 - 07.2001 | 4.454 |
+| 3B | Skjema3B.pdf | | | | 08.2001 - 11.2001 | 864 |
+| 3C/D* | Skjema3C/D.pdf | Questionnaire3C/D.pdf | Questionnaire3C/D.pdf | Skjema3C/D.pdf | 11.2001 - 01.2007 | 62.966 |
+| 3E | Skjema3E.pdf | | | Skjema3E.pdf | 01.2007 - 04.2009 | 25.872 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 4A | Skjema4A.pdf | | | | 08.2000 - 10.2002 | 7.951 |
+| 4B/C/D/E* | Skjema4B/C/D/E.pdf | | | Skjema4B/C/D/E.pdf | 11.2002 - 01.2006 | 34.478 |
+| 4F | Skjema4F.pdf | | | Skjema4F.pdf | 01.2006 - 02.2007 | 14.675 |
+| 4G | Skjema4G.pdf | Questionnaire4G.pdf | Questionnaire4G.pdf | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
+| 4H | Skjema4H.pdf | | | Skjema4H.pdf | 12.2007 - 02.2010 | 20.562 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 5A | Skjema5A.pdf | | | Skjema5A.pdf | 12.2001 - 07.2003 | 5.007 |
+| 5B | Skjema5B.pdf | | | Skjema5B.pdf | 07.2003 - 03.2005 | 13.008 |
+| 5C | Skjema5C.pdf | | | Skjema5C.pdf | 03.2005 - 06.2007 | 23.635 |
+| 5D | Skjema5D.pdf | Questionnaire5D.pdf | Questionnaire5D.pdf | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
+| 5E | Skjema5E.pdf | | | Skjema5E.pdf | 12.2008 -01.2011 | 17.359 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 6A | Skjema6A.pdf | | | | 11.2004 - 03.2005 | 1.238 |
+| 6B | Skjema6B.pdf | | | Skjema6B.pdf | 04.2005 - 04.2006 | 7.014 |
+| 6C | Skjema6C.pdf | Questionnaire6C.pdf | Questionnaire6C.pdf | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
+| 6D | Skjema6D.pdf | | | Skjema6D.pdf | 06.2010 - 07.2012 | 10.980 |
+| 6-1* | Skjema6-1.pdf | | | | 06.2006 | Not included |
+| 6-2* | Skjema6-2.pdf | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
+| 6-3* | Skjema6-3.pdf | | | | 12.2006 & 06.2007 | Not included |
+| 6 Web (identical to C) | | | | | 02.2007 - 12.2011 | 5.154 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 5years A | Skjema5aarA.pdf | | | Skjema5aarA.pdf | 02.2010 - 12.2011 | 14.871 |
+| 5years B | Skjema5aarB.pdf | Questionnaire5yB.pdf | | Skjema5aarB.pdf | 05.2011 - 07.2014 | 26.746 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 7years A | Skjema7aarA.pdf | | | Skjema7aarA.pdf | 03.2008 - 08.2008 | 2053 |
+| 7years B | Skjema7aarB.pdf | | | Skjema7aarB.pdf | 10.2009 - 02.2010 | 4.783 |
+| 7years C | Skjema7aarC.pdf | Questionnaire7yC.pdf | | Skjema7aarC.pdf | 04.2010 - 07.2016 | 47.270 |
+| 7years Web (identical to C) | | | | | 09.2010 - 10.2011 | 671 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| 8years A Short | Skjema8aarKort.pdf | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
+| 8years A Long | Skjema8aarLang.pdf | | | Skjema8aarLang.pdf | 02.2011 - 05.2011 | 4.054 |
+| 8years B | Skjema8aarB.pdf | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
+| 8years C | Skjema8aarC.pdf | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
+
+| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | -- | -- | 
+| A - Father | Far2.pdf | | | Far2.pdf | 12.2015 - 09.2016 | 29.345 |
+| A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
 
  
 
