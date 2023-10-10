@@ -176,7 +176,7 @@
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | ALDERUTFYLT_SFLUM | Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child's age when questionnaire was completed. |
-| MOR_ALDERUTFYLT_SFLUM | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Mother’s date of birth) | Mother’s age when filling out Father’s Questionnarie no. 2. |
+| MOR_ALDERUTFYLT_SFLUM | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Mother’s date of birth) | Mother’s age when filling out questionnaire. |
 
 ### Questionnaire about coronavirus (COVID-19) for parents and children
 
