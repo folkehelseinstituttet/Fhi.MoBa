@@ -117,6 +117,30 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 8years B | Skjema8aarB.pdf | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
 | 8years C | Skjema8aarC.pdf | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
 
+### Questionnaires to schools - 8 years
+
+
+### Questionnaires to schools - 11 years
+
+### Q13Y, Questionnaire 13 years
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-youth-diet.pdf) for a description of changes between Versions. 
+
+### Q14Y, Questionnaire 14 years
+See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q14_barn.pdf) for a description of changes between Versions. 
+
+### QMoBaUng, Questionnaire 16 to 17-year-olds
+
+
+
+### Q18Y, Questionnaire to 18-year-olds
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument-documentation-18-year_.pdf) for a description of changes between Versions. 
+
+### QP45, Questionnaire to parents aged 45 and over
+#### Questionaire for mothers 45+
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument_documentation_women_45years.pdf) for a description of changes between Versions. 
+#### Questionaire for fathers 45+
+See [Instrument documentation](https://www.fhi.no/contentassets/1016188d845f4c5f8fa57266c454ad8c/instrument_documentation_men_45years.pdf) for a description of changes between Versions. 
+
 ### QF2, Father's questionnaire no. 2 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/sporreskjemaer/instrument-documentation_fathers-questionnaire-2015.pdf). ´Some special notes about Father's questionnaire no. 2: Father_questionnaire_no._2´
 
@@ -124,6 +148,11 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/s
 | -- | -- | -- | -- | -- | -- | -- | 
 | A - Father | Far2.pdf | | | Far2.pdf | 12.2015 - 09.2016 | 29.345 |
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
+
+## Other forms
+### Questionnaires about influenza and vaccine for mother and child
+
+### Questionnaire about coronavirus (COVID-19) for parents and children
 
  
 
