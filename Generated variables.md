@@ -136,7 +136,7 @@
 | AGE_MTHS_YB1 | Months | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 | ALDERUTFYLT_YB1| Days | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
 
-#### MoBaUng Questionnaire 2
+#### MoBaUng Questionnaire 3
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
 | AGE_YRS_YC1 | Years | None | Date of birth, Date when the questionnaire was submitted online | (Date when the questionnaire was completed online) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
