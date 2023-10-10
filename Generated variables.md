@@ -98,6 +98,71 @@
 | AGE_MTHS_Q8AAR | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed. |
 | AGE_RETURN_MTHS_Q8AAR | Months | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was returned. |
 
+### Q13Y, Questionnaire 13 years
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_MTHS_KOST | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_KOST| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+### Q14Y, Questionnaire 14 years 
+#### Questionaire for mother
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_UM | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_UM | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_UM| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+#### Questionaire for youth
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_UB | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_UB | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_UB| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+
+### QMoBaUng, Questionnaire 16 to 17-year-olds
+
+#### MoBaUng Questionnaire 1
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_YA1 | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_YA1 | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_YA1| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+#### MoBaUng Questionnaire 2
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_YB1 | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_YB1 | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_YB1| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+#### MoBaUng Questionnaire 2
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_YC1 | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_YC1 | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_YC1| Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+### Q18Y, Questionnaire to 18-year-olds
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_VE | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| AGE_MTHS_VE | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+| ALDERUTFYLT_VE | Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child’s age when the questionnaire was completed online. |
+
+### QP45, Questionnaire to parents aged 45 and over
+#### Questionaire for mothers 45+
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_LM | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Mother’s date of birth) | Mother’s age when the questionnaire was completed online. |
+| AGE_MTHS_LM | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Mother’s date of birth) | Mother’s age when the questionnaire was completed online. |
+
+#### Questionaire for fathers 45+
+| Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
+| -- | -- | -- | -- | -- | -- |
+| AGE_YRS_LF | Years | 0 | Date of birth | (Date of filling out questionnaire) – (Father’s date of birth) | Father’s age when the questionnaire was completed online. |
+| AGE_MTHS_LF | Months | 0 | Date of birth | (Date of filling out questionnaire) – (Father’s date of birth) | Father’s age when the questionnaire was completed online. |
+
 ### QF2, Father's questionnaire no. 2 
 | Variable name | Unit | Question number MoBa | Other sources | Expression | Explanation |
 | -- | -- | -- | -- | -- | -- |
@@ -105,5 +170,13 @@
 | ALDERUTFYLT | Days | 0 | Date of birth | (Date of filling out questionnaire) – (Child’s date of birth) | Child's age when questionnaire was completed. |
 | ALDERRETUR | Days | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child's age when questionnaire was returned. |
 | FAR_ALDERUTFYLT | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Father’s date of birth) | Father’s age when filling out Father’s Questionnarie no. 2. |
+
+## Other forms
+### Questionnaires about influenza and vaccine for mother and child
+
+### Questionnaire about coronavirus (COVID-19) for parents and children
+
+
+
 
 
