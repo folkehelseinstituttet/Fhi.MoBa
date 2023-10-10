@@ -190,8 +190,6 @@
 | ALDERRETUR_SFLUC | Days | None | Date of birth, Date of registered return of questionnaire | (Date of registered return of questionnaire) – (Child’s date of birth) | Child's age when questionnaire was returned (given in number of days before birth). |
 | MOR_ALDERUTFYLT_SFLUC | Year | 0 | Date of birth, Date of registered return of questionnaire | (Date of filling out questionnaire/date of return of questionnaire) – (Mother’s date of birth) | Mother’s age when filling out questionnaire. |
 
-### Questionnaire about coronavirus (COVID-19) for parents and children
-
 
 
 
