@@ -40,7 +40,7 @@ The variable ‘ALDERUTFYLT_Sx’ is calculated from ”Date for filling out the
 Note that for the first (Q1), second (Q2) and third (Q3) mother's questionnaire as well as the first father’s questionnaire (QF), the variable ‘ALDERUTFYLT_Sx’ corresponds to the number of days before the child is born. <br><br>
 Also note that we have observed some evident errors in the variable ”Date for filling out the questionnaire”. Some respondents have written their own date of birth, their child’s date of birth or other dates that are not valid. This results in errors in the generated variable ‘ALDERUTFYLT_Sx’. To control for these errors, we have added two generated variables to the dataset; ‘ALDERUTSENDT_Sx’ and ‘ALDERRETUR_Sx’. These variables are calculated in the same way as ‘ALDERUTFYLT_Sx’, but utilize the date the questionnaire was sent and the date we received it. These variables may be used for estimation of the child’s age when ‘ALDERUTFYLT_Sx’ is missing or implausible. 
 #### Digital Questionnaire
-The variable ‘ALDERUTFYLT_Sx’ is calculated from the date when the questionnaire was submitted (digital) by the respondant.
+The variable ‘ALDERUTFYLT_Sx’ is calculated from the date when the questionnaire was submitted online by the respondant.
 
 ### Number of responses
 #### Only applies to Questionnaires on paper
