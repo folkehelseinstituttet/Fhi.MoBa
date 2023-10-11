@@ -8,7 +8,7 @@ For more information about the cohort, please visit the MoBa website at the [Nor
 ## FAQ
 
 ### I have just received files from MoBa, where do I start?
-By reading [this very important information](https://github.com/folkehelseinstituttet/Fhi.MoBa/blob/main/Read%20this%20before%20analyses.md).
+By reading [this very important information](Read%20this%20before%20analyses.md).
 ### How do I merge files?
 Information and syntax on how to merge files from MoBa can be found [here](https://github.com/folkehelseinstituttet/Fhi.MoBa/blob/main/Merge%20files.md).
 ### Why are there duplicates in my files?
