@@ -10,7 +10,7 @@ Distributed to mother in invitation package 3 weeks before Ultrasound appointmen
 
 | Version  | Original | English translation | Annotated | Variable labels | Period of use | # in version 12| 
 | -- | -- | -- | -- | -- | -- | -- | 
-| [Father A](Tester_pa_vedlegg1.pdf) | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
+| Father A | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
 | Father B/C* | [Far B/C](PDF/MoBaQuestionnaires/noDef/FarC.pdf)  | | | FarB/C.pdf | 06.2001 - 11.2005 | 42.744 | 
 | Father D/E | [Far D/E](PDF/MoBaQuestionnaires/noDef/FarD_FarE.pdf) | Father D/E.pdf | Far D/E.pdf | Far D/E.pd | 11.2005 - 01.2009 | 34.498 |  
 
@@ -20,10 +20,10 @@ _*Only minor changes in question formulation_
 Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q1.pdf) and `Q1_changes.pdf (in Norwegian:SKJEMA_1_endringer.pdf, Skjema1_Endringer_bilder.pdf)` for a description of changes between Versions. 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 1A | Skjema1A.pdf |  |  | Skjema1A.pdf | 06.1999 - 10.2000 | 2.564 |
-| 1B | Skjema1B.pdf |  |  | Skjema1B.pdf | 11.2000 - 03.2003 | 20.399 |
-| 1C/D* | Skjema1C/D.pdf | Questionnaire1C/D.pdf | Questionnaire1C/D.pdf | Skjema1C/D.pdf | 03.2003 - 11.2006 | 54.116 |
-| 1E | Skjema1E.pdf |  |  | Skjema1E.pdf | 12.2006 - 01.2009 | 25.072 |
+| 1A | [Skjema1A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1A.pdf) |  |  | Skjema1A.pdf | 06.1999 - 10.2000 | 2.564 |
+| 1B | [Skjema1B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1B.pdf) |  |  | Skjema1B.pdf | 11.2000 - 03.2003 | 20.399 |
+| 1C/D* | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1D.pdf) | Questionnaire1C/D.pdf | Questionnaire1C/D.pdf | Skjema1C/D.pdf | 03.2003 - 11.2006 | 54.116 |
+| 1E | [Skjema1E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1E.pdf) |  |  | Skjema1E.pdf | 12.2006 - 01.2009 | 25.072 |
 
 _*Only minor changes in question formulation_
 
@@ -32,10 +32,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 2A | Skjema2A.pdf | | | | 06.1999 - 02.2000 | 729 |
-| 2B | Skjema2B.pdf | | | | 02.2000 - 01.2002 | 8.582 |
-| 2C | Skjema2C.pdf | Questionnaire2C.pdf | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
-| 2D | Skjema2D.pdf | Questionnaire2D.pdf | Questionnaire2D.pdf | | 08.2003 - 02.2009 | 63.912 |
+| 2A | [Skjema 2A](PDF/MoBaQuestionnaires/noDef/Skjema2A.pdf) | | | | 06.1999 - 02.2000 | 729 |
+| 2B | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2B.pdf) | | | | 02.2000 - 01.2002 | 8.582 |
+| 2C | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2C.pdf) | Questionnaire2C.pdf | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
+| 2D | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2D.pdf) | Questionnaire2D.pdf | Questionnaire2D.pdf | | 08.2003 - 02.2009 | 63.912 |
 | 2 Web (identical to D) | | | | | 09.2006 - 02.2009 | 4.846 |
 
 ### Q3, Questionnaire 3 (around week 30 of pregnancy) 
