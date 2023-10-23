@@ -9,9 +9,9 @@ There are several versions of each questionnaire. The original questionnaires ca
 Distributed to mother in invitation package 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-father.pdf) and `SKJEMA_FAR_endringer.pdf (only in Norwegian)` for a description of changes between Version B/C and D/E. 
 | Version  | Original | English translation | Annotated | Variable labels | Period of use | # in version 12| 
 | -- | -- | -- | -- | -- | -- | -- | 
-| [Father A](Tester_pa_vedlegg1.pdf) | [Far A](PDF\MoBaQuestionnaires+withoutDef\FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
-| Father B/C* | [Far B/C](PDF\MoBaQuestionnaires+withoutDef\FarC.pdf)  | | | FarB/C.pdf | 06.2001 - 11.2005 | 42.744 | 
-| Father D/E | [Far D/E](PDF\MoBaQuestionnaires+withoutDef\FarD_FarE.pdf) | Father D/E.pdf | Far D/E.pdf | Far D/E.pd | 11.2005 - 01.2009 | 34.498 |  
+| [Father A](Tester_pa_vedlegg1.pdf) | [Far A](PDF\MoBaQuestionnaires\withoutDef\FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
+| Father B/C* | [Far B/C](PDF\MoBaQuestionnaires\withoutDef\FarC.pdf)  | | | FarB/C.pdf | 06.2001 - 11.2005 | 42.744 | 
+| Father D/E | [Far D/E](PDF\MoBaQuestionnaires\withoutDef\FarD_FarE.pdf) | Father D/E.pdf | Far D/E.pdf | Far D/E.pd | 11.2005 - 01.2009 | 34.498 |  
 
 _*Only minor changes in question formulation_
 
