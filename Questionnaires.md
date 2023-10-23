@@ -7,6 +7,7 @@ There are several versions of each questionnaire. The original questionnaires ca
 
 ### QF, Father's questionnaire (around week 15 of pregnancy) 
 Distributed to mother in invitation package 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-father.pdf) and `SKJEMA_FAR_endringer.pdf (only in Norwegian)` for a description of changes between Version B/C and D/E. 
+
 | Version  | Original | English translation | Annotated | Variable labels | Period of use | # in version 12| 
 | -- | -- | -- | -- | -- | -- | -- | 
 | [Father A](Tester_pa_vedlegg1.pdf) | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
