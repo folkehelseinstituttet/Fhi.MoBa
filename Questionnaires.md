@@ -32,10 +32,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 2A | [Skjema 2A](PDF/MoBaQuestionnaires/noDef/Skjema2A.pdf) | | | | 06.1999 - 02.2000 | 729 |
-| 2B | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2B.pdf) | | | | 02.2000 - 01.2002 | 8.582 |
-| 2C | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2C.pdf) | Questionnaire2C.pdf | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
-| 2D | [Skjema ](PDF/MoBaQuestionnaires/noDef/Skjema2D.pdf) | Questionnaire2D.pdf | Questionnaire2D.pdf | | 08.2003 - 02.2009 | 63.912 |
+| 2A | [Skjema2A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2A.pdf) | | | | 06.1999 - 02.2000 | 729 |
+| 2B | [Skjema2B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2B.pdf) | | | | 02.2000 - 01.2002 | 8.582 |
+| 2C | [Skjema2C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2C.pdf) | Questionnaire2C.pdf | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
+| 2D | [Skjema2D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2D.pdf) | Questionnaire2D.pdf | Questionnaire2D.pdf | | 08.2003 - 02.2009 | 63.912 |
 | 2 Web (identical to D) | | | | | 09.2006 - 02.2009 | 4.846 |
 
 ### Q3, Questionnaire 3 (around week 30 of pregnancy) 
