@@ -7,5 +7,5 @@
 1. Main page 
 2. About 
 3. Read this before analyses (må oppdatere avsnitt om major changes). Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
-4. Questionnaire (mye som gjenstår)
+4. Questionnaire (endel som gjenstår)
    
