@@ -79,7 +79,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | | 11.2004 - 03.2005 | 1.238 |
+| 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | [Skjema6A.pdf](PDF/MoBaQuestionnaires/withDef/6A_def.pdf) | 11.2004 - 03.2005 | 1.238 |
 | 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | [Skjema6B.pdf](PDF/MoBaQuestionnaires/withDef/6B_def.pdf) | 04.2005 - 04.2006 | 7.014 |
 | 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/Annotated/Q6C_annotated_English.pdf) | [Skjema6C.pdf](PDF/MoBaQuestionnaires/withDef/6C_def.pdf) | 04.2006 - 07.2010 | 33.712 |
 | 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | [Skjema6D.pdf](PDF/MoBaQuestionnaires/withDef/6D_def.pdf) | 06.2010 - 07.2012 | 10.980 |
@@ -95,17 +95,17 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 5years A | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarA.pdf) | | | Skjema5aarA.pdf | 02.2010 - 12.2011 | 14.871 |
-| 5years B | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarB.pdf) | [Questionnaire5yB.pdf](PDF/MoBaQuestionnaires/English/Q5yB.pdf) | | Skjema5aarB.pdf | 05.2011 - 07.2014 | 26.746 |
+| 5years A | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarA.pdf) | | | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/withDef/5aarA_def.pdf) | 02.2010 - 12.2011 | 14.871 |
+| 5years B | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarB.pdf) | [Questionnaire5yB.pdf](PDF/MoBaQuestionnaires/English/Q5yB.pdf) | | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/withDef/5aarB_def.pdf) | 05.2011 - 07.2014 | 26.746 |
 
 ### Q7Y, Questionnaire 7 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-dokumentasjon-q_7y_2016.pdf) and Q7years_changes.pdf (in Norwegian: SKJEMA_7_endringer.pdf) for a description of changes between Versions. 
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 7years A | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarA.pdf) | | | Skjema7aarA.pdf | 03.2008 - 08.2008 | 2053 |
-| 7years B | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarB.pdf) | | | Skjema7aarB.pdf | 10.2009 - 02.2010 | 4.783 |
-| 7years C | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarC.pdf) | [Questionnaire7yC.pdf](PDF/MoBaQuestionnaires/English/Q7yC.pdf) | | Skjema7aarC.pdf | 04.2010 - 07.2016 | 47.270 |
+| 7years A | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarA.pdf) | | | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/withDef/7aarA_def.pdf) | 03.2008 - 08.2008 | 2053 |
+| 7years B | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarB.pdf) | | | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/withDef/7aarB_def.pdf) | 10.2009 - 02.2010 | 4.783 |
+| 7years C | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarC.pdf) | [Questionnaire7yC.pdf](PDF/MoBaQuestionnaires/English/Q7yC.pdf) | | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/withDef/7aarC_def.pdf) | 04.2010 - 07.2016 | 47.270 |
 | 7years Web (identical to C) | | | | | 09.2010 - 10.2011 | 671 |
 
 ### Q8Y, Questionnaire 8 years 
@@ -113,10 +113,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarKort.pdf) | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
-| 8years A Long | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarLang.pdf) | | | Skjema8aarLang.pdf | 02.2011 - 05.2011 | 4.054 |
-| 8years B | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarB.pdf) | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
-| 8years C | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarC.pdf) | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
+| 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarKort.pdf) | | | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/withDef/8aarKort_def.pdf) | 02.2011 - 04.2011 | 231 |
+| 8years A Long | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarLang.pdf) | | | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/withDef/8aarLang_def.pdf) | 02.2011 - 05.2011 | 4.054 |
+| 8years B | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarB.pdf) | | | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/withDef/8aarB_def.pdf) | 07.2011 - 03.2012 | 3.823 |
+| 8years C | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarC.pdf) | Questionnaire8yC.pdf | | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/withDef/8aarC_def.pdf) | 05.2012 - 07.2017 | 35.508 |
 
 ### Questionnaires to schools - 8 years
 
