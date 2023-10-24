@@ -10,7 +10,7 @@ For more information about the cohort, please visit the MoBa website at the [Nor
 ### I have just received files from MoBa, where do I start?
 By reading [this very important information](Read%20this%20before%20analyses.md).
 ### How do I merge files?
-Information and syntax on how to merge files from MoBa can be found [here](https://github.com/folkehelseinstituttet/Fhi.MoBa/blob/main/Merge%20files.md).
+Information and syntax on how to merge files from MoBa can be found [here](Merge%20files.md).
 ### Why are there duplicates in my files?
 There should not be any duplicates on any of the variables in any of the files. But the data files based on data after birth (data from questionnaire at 6 months, 18 months, 3 years, 5 years, 7 years, 8 years etc.) will include duplicates on pregnancy as one pregnancy may result in more than one child. Therefore, it is extremely important to remember to use both the unique identifier for the pregnancy, PREG_ID_XXX, and the variable BARN_NR to merge these files. PREG_ID_XXX and BARN_NR together should give a unique identifier for each observation in all files after birth.
 ### Why is there such a high percentage of missing values for some of the variables in my files?
