@@ -121,6 +121,31 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
     </tr>
 </table>
 
+<table>
+  <thead>
+    <th>Layer 1 </th>
+    <th>Layer 2 </th>
+    <th>Layer 3 </th>
+    <th>Layer 4 </th>
+    <th>Layer 5 </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>L1 Name A</td>
+      <td>L2 Name A</td>
+      <td>L3 Name A</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>L1 Name A</td>
+      <td>L2 Name A</td>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+</table>
+
 ############################################
 <table>
   <thead>
@@ -149,28 +174,42 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td rowspan=4>5</td>
       <td rowspan=4>Coffee (filtered, percolatedpressed, powdered instant and espresso) </td>
       <td>Q_11_30</td>
-      <td>L4 Name A</td>
-      <td>L5 Name A</td>
+      <td>BB265, BB266, BB267</td>
+      <td>56,67</td>
     </tr>
     <tr>
-      <td>BB265, BB266, BB267</td>
-      <td>L4 name B</td>
-      <td>L5 name B</td>
+      <td>Q_11_31</td>
+      <td>BB268, BB269, BB270</td>
+      <td>40</td>
     </tr>
       <tr>
-      <td>11,85</td>
-      <td>L4 name B</td>
-      <td>L5 name B</td>
+      <td>Q_11_32</td>
+      <td>BB271, BB272, BB273</td>
+      <td>56,67</td>
     </tr>
       <tr>
-      <td>L3 name B</td>
-      <td>L4 name B</td>
-      <td>L5 name B</td>
+      <td> Q_11_34</td>
+      <td>BB277, BB278, BB279</td>
+      <td>114,29</td>
     </tr>
   </tbody>
+   <tbody>
+    <tr>
+      <td rowspan=2>10</td>
+      <td rowspan=2>Chocolate</td>
+      <td> Q_26_1</td>
+      <td>BB759, BB760, BB761</td>
+      <td> 38</td>
+    </tr>
+    <tr>
+      <td>Q_26_2</td>
+      <td>BB762, BB763, BB764</td>
+      <td>15</td>
+    </tr>
+   </tbody>
 </table>
 
-| Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)100 g | 
+| Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)/100 g | 
 | -- | -- | -- | -- | -- |
 | 1 | Sandwich spread containing cocoa  | Q_8_30 | BB144, BB145, BB146 | 12,5 | 
 | 2 | Milk containing cocoa  | Q_11_10 | BB205, BB206, BB207 | 2 | 
