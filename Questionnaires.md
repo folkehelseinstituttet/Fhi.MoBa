@@ -113,7 +113,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/8aarKort.pdf) | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
+| 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarKort.pdf) | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
 | 8years A Long | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarLang.pdf) | | | Skjema8aarLang.pdf | 02.2011 - 05.2011 | 4.054 |
 | 8years B | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarB.pdf) | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
 | 8years C | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarC.pdf) | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
