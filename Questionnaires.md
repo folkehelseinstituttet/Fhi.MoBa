@@ -81,7 +81,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | -- | -- | -- | -- | -- | -- | -- | 
 | 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | | 11.2004 - 03.2005 | 1.238 |
 | 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | Skjema6B.pdf | 04.2005 - 04.2006 | 7.014 |
-| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | [Questionnaire6C.pdf](PPDF/MoBaQuestionnaires/Annotated/Q6C_annotated_English.pdf) | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
+| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/Annotated/Q6C_annotated_English.pdf) | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
 | 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | Skjema6D.pdf | 06.2010 - 07.2012 | 10.980 |
 | 6-1* | [Skjema6-1.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-1.pdf) | | | | 06.2006 | Not included |
 | 6-2* | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
