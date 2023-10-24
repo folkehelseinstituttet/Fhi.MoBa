@@ -11,8 +11,8 @@ Distributed to mother in invitation package 3 weeks before Ultrasound appointmen
 | Version  | Original | English translation | Annotated | Variable labels | Period of use | # in version 12| 
 | -- | -- | -- | -- | -- | -- | -- | 
 | Father A | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
-| Father B/C* | [Far B/C](PDF/MoBaQuestionnaires/noDef/FarC.pdf)  | | | FarB/C.pdf | 06.2001 - 11.2005 | 42.744 | 
-| Father D/E | [Far D/E](PDF/MoBaQuestionnaires/noDef/FarD_FarE.pdf) | [Father D/E.pdf](PDF/MoBaQuestionnaires/English/FatherD.pdf) | [Far D/E.pdf](PDF/MoBaQuestionnaires/Annotated/FATHER_annotated_English.pdf) | Far D/E.pd | 11.2005 - 01.2009 | 34.498 |  
+| Father B/C* | [Far B/C](PDF/MoBaQuestionnaires/noDef/FarC.pdf)  | | | [FarB/C.pdf](PDF/MoBaQuestionnaires/withDef/FarBC_def.pdf) | 06.2001 - 11.2005 | 42.744 | 
+| Father D/E | [Far D/E](PDF/MoBaQuestionnaires/noDef/FarD_FarE.pdf) | [Father D/E.pdf](PDF/MoBaQuestionnaires/English/FatherD.pdf) | [Far D/E.pdf](PDF/MoBaQuestionnaires/Annotated/FATHER_annotated_English.pdf) | [Far D/E.pd](PDF/MoBaQuestionnaires/withDef/FarDE_def.pdf)  | 11.2005 - 01.2009 | 34.498 |  
 
 _*Only minor changes in question formulation_
 
@@ -20,10 +20,10 @@ _*Only minor changes in question formulation_
 Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q1.pdf) and `Q1_changes.pdf (in Norwegian:SKJEMA_1_endringer.pdf, Skjema1_Endringer_bilder.pdf)` for a description of changes between Versions. 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 1A | [Skjema1A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1A.pdf) |  |  | Skjema1A.pdf | 06.1999 - 10.2000 | 2.564 |
-| 1B | [Skjema1B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1B.pdf) |  |  | Skjema1B.pdf | 11.2000 - 03.2003 | 20.399 |
-| 1C/D* | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1D.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/English/Q1C.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q1C_annotated_English.pdf) | Skjema1C/D.pdf | 03.2003 - 11.2006 | 54.116 |
-| 1E | [Skjema1E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1E.pdf) |  |  | Skjema1E.pdf | 12.2006 - 01.2009 | 25.072 |
+| 1A | [Skjema1A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1A.pdf) |  |  | [Skjema1A.pdf](PDF/MoBaQuestionnaires/withDef/1A_def.pdf)  | 06.1999 - 10.2000 | 2.564 |
+| 1B | [Skjema1B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1B.pdf) |  |  | [Skjema1B.pdf](PDF/MoBaQuestionnaires/withDef/1B_def.pdf) | 11.2000 - 03.2003 | 20.399 |
+| 1C/D* | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1D.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/English/Q1C.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q1C_annotated_English.pdf) | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/withDef/1CD_def.pdf) | 03.2003 - 11.2006 | 54.116 |
+| 1E | [Skjema1E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1E.pdf) |  |  | [Skjema1E.pdf](PDF/MoBaQuestionnaires/withDef/1E_def.pdf) | 12.2006 - 01.2009 | 25.072 |
 
 _*Only minor changes in question formulation_
 
