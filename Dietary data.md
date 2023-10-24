@@ -96,7 +96,64 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
      <td>L4 Name D</td>
      <td>L5 Name D</td>
    </tr>
-  </tbody>
+</table>
+
+<table>
+  <thead>
+    <th>Layer 1 </th>
+    <th>Layer 2 </th>
+    <th>Layer 3 </th>
+    <th>Layer 4 </th>
+    <th>Layer 5 </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=2>L1 Name A</td>
+      <td rowspan=2>L2 Name A</td>
+      <td>L3 Name A</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+</table>
+
+############################################
+<table>
+  <thead>
+    <th>Group no. </th>
+    <th>Description </th>
+    <th>Q. no in FFQ* (Q2E) </th>
+    <th>Variable name* </th>
+    <th>Caffeine (mg)100 g </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=4>4</td>
+      <td>Caffeinated soft drink,  sugar sweetened  (cola- and energy drink)</td>
+      <td>Q_11_18</td>
+      <td>BB229, BB230, BB231</td>
+      <td>11,85</td>
+    </tr>
+    <tr>
+      <td>Q_11_22</td>
+      <td>BB241, BB242, BB243</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td rowspan=2>L2 name B</td>
+      <td>L3 Name C</td>
+      <td>L4 Name C</td>
+      <td>L5 Name C</td>
+    </tr>
+   <tr>
+     <td>L3 Name D</td>
+     <td>L4 Name D</td>
+     <td>L5 Name D</td>
+   </tr>
 </table>
 
 | Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)100 g | 
