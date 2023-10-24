@@ -43,10 +43,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 3A | Skjema3A.pdf | | | | 01.2000 - 07.2001 | 4.454 |
-| 3B | Skjema3B.pdf | | | | 08.2001 - 11.2001 | 864 |
-| 3C/D* | Skjema3C/D.pdf | Questionnaire3C/D.pdf | Questionnaire3C/D.pdf | Skjema3C/D.pdf | 11.2001 - 01.2007 | 62.966 |
-| 3E | Skjema3E.pdf | | | Skjema3E.pdf | 01.2007 - 04.2009 | 25.872 |
+| 3A | [Skjema3A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3A.pdf) | | | | 01.2000 - 07.2001 | 4.454 |
+| 3B | [Skjema3B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3B.pdf) | | | | 08.2001 - 11.2001 | 864 |
+| 3C/D* | [Skjema3C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3C.pdf) | Questionnaire3C/D.pdf | Questionnaire3C/D.pdf | Skjema3C/D.pdf | 11.2001 - 01.2007 | 62.966 |
+| 3E | [Skjema3E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3E.pdf) | | | Skjema3E.pdf | 01.2007 - 04.2009 | 25.872 |
 
 _*Only minor changes in question formulation_
 
@@ -55,11 +55,11 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 4A | Skjema4A.pdf | | | | 08.2000 - 10.2002 | 7.951 |
-| 4B/C/D/E* | Skjema4B/C/D/E.pdf | | | Skjema4B/C/D/E.pdf | 11.2002 - 01.2006 | 34.478 |
-| 4F | Skjema4F.pdf | | | Skjema4F.pdf | 01.2006 - 02.2007 | 14.675 |
-| 4G | Skjema4G.pdf | Questionnaire4G.pdf | Questionnaire4G.pdf | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
-| 4H | Skjema4H.pdf | | | Skjema4H.pdf | 12.2007 - 02.2010 | 20.562 |
+| 4A | [Skjema4A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4A.pdf) | | | | 08.2000 - 10.2002 | 7.951 |
+| 4B/C/D/E* | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4B.pdf) | | | Skjema4B/C/D/E.pdf | 11.2002 - 01.2006 | 34.478 |
+| 4F | [Skjema4F.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4F.pdf) | | | Skjema4F.pdf | 01.2006 - 02.2007 | 14.675 |
+| 4G | [Skjema4G.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4G.pdff) | Questionnaire4G.pdf | Questionnaire4G.pdf | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
+| 4H | [Skjema4H.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4H.pdf) | | | Skjema4H.pdf | 12.2007 - 02.2010 | 20.562 |
 
 _*Only minor changes in question formulation_
 
