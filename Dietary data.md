@@ -6,7 +6,9 @@ Food frequency questionnaires are relatively crude instruments asking respondent
 
 MoBa does not exclude any reports based on quality of reporting before delivering data from food frequency questionnaires to research projects. Each research project is required to consider criteria for inclusion/exclusion of reports. The most common approach, and suggested cut-off values, are discussed in the section below.  
 
-## Dietary questionnaire in pregancy (Q2) - calculations from food
+# Dietary questionnaire in pregancy (Q2) 
+
+## Nutrient intakes calculatied from food
 
 ### Assessment of cut-off values 
 As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
@@ -23,19 +25,11 @@ The MoBa food frequency questionnaire for assessing diet during pregnancy was de
 <a id="1">[5]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
 <a id="1">[6]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
 
- ## Dietary questionnaire in pregancy (Q2) - calculations from supplements
+ ## Nutrient intakes calculated from dietary supplements
  ### Important papers
 
-## Dietary questionnaire to youths (Q-youth diet) 
 
-### Assessment of cut-off values 
-As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
-
-A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (14.6 MJ/day) have been applied as cut-off values in large cohort studies in adults. Lower and upper cut-off values for improbable energy-intakes in pregnant women in MoBa has been set to 4.5 MJ/day (1075 kcal/day) and 20 MJ/day (4780 kcal/day), respectively. Applying these cut-off values will remove the most extreme misreports, but there will still be misreporting within the remaining participants. A food frequency questionnaire is better suited for ranking participants according to high and low intakes than for precise estimation. 
-
-The questionnaire for youths in MoBa is less comprehensive than the questionnaire for pregnant women in MoBa and include fewer questions. Suggested lower cut-off value is 3.0 MJ/day (700 kcal) for both boys and girls. Suggested upper cut-off values is 14.6 MJ/day (3500 kcal) for girls and 18 MJ (4300 kcal) for boys. This would exclude around 3-5% of the study population, where more are excluded in the upper end of the distribution than in the lower end. These are, however, only suggestions and each research project needs to consider which cut-off values to use and whether to differentiate the cut-off values for boys and girls. 
-
-## Caffeine calculation from food - Dietary questionnaire in pregancy (Q2)
+## Caffeine calculation from food 
 Caffeine is present not only in beverages, but also in foods containing cocoa. Total caffeine intake is calculated from the comprehensive food frequency questionnaire (FFQ) answered in gestational week 22 (Questionnaire 2). The FFQ asks about intake of 255 food and beverage items and is a semiquantitative FFQ designed to record dietary habits during the first 4–5 months of gestation. 
 
 1. The calculated caffeine variables comprise of total caffeine intake (mg/day) and caffeine intake (mg/day) from 12 defined groups:  
@@ -136,5 +130,13 @@ _Table 1 Summary caffeine groups_
    <tbody><tr><td>12 </td><td>Cappuccino and cafe latte (coffee with milk) </td><td>Q_11_33 </td><td>BB274, BB275, BB276 </td><td>21 </td></tr></tbody>
 </table>
 
-### Important papers
-#### Nutrient intakes calculated from dietary supplements reported in the Food frequency questionnaire
+
+# Dietary questionnaire to youths (Q-youth diet) 
+## Nutrient intakes calculatied from food
+### Assessment of cut-off values 
+As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
+
+A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (14.6 MJ/day) have been applied as cut-off values in large cohort studies in adults. Lower and upper cut-off values for improbable energy-intakes in pregnant women in MoBa has been set to 4.5 MJ/day (1075 kcal/day) and 20 MJ/day (4780 kcal/day), respectively. Applying these cut-off values will remove the most extreme misreports, but there will still be misreporting within the remaining participants. A food frequency questionnaire is better suited for ranking participants according to high and low intakes than for precise estimation. 
+
+The questionnaire for youths in MoBa is less comprehensive than the questionnaire for pregnant women in MoBa and include fewer questions. Suggested lower cut-off value is 3.0 MJ/day (700 kcal) for both boys and girls. Suggested upper cut-off values is 14.6 MJ/day (3500 kcal) for girls and 18 MJ (4300 kcal) for boys. This would exclude around 3-5% of the study population, where more are excluded in the upper end of the distribution than in the lower end. These are, however, only suggestions and each research project needs to consider which cut-off values to use and whether to differentiate the cut-off values for boys and girls. 
+
