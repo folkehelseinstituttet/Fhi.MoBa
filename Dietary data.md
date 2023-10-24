@@ -223,25 +223,5 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
    <tbody><tr><td>12 </td><td>Cappuccino and cafe latte (coffee with milk) </td><td>Q_11_33 </td><td>BB274, BB275, BB276 </td><td>21 </td></tr></tbody>
 </table>
 
-| Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)/100 g | 
-| -- | -- | -- | -- | -- |
-| 1 | Sandwich spread containing cocoa  | Q_8_30 | BB144, BB145, BB146 | 12,5 | 
-| 2 | Milk containing cocoa  | Q_11_10 | BB205, BB206, BB207 | 2 | 
-| 3 | Caffeinated soft drink,  artificial sweetened | Q_11_20 | BB235, BB236, BB237 | 11,85 | 
-| 4 | Caffeinated soft drink,  sugar sweetened  (cola- and energy drink) | Q_11_18 <br> Q_11_22 | BB229, BB230, BB231 | 11,85 | 
-| | | Q_11_22 | BB241, BB242, BB243 | 15 | 
-| 5 | Coffee (filtered, percolatedpressed, powdered instant and espresso) | Q_11_30 | BB265, BB266, BB267 | 56,67 | 
-| | | Q_11_31 | BB268, BB269, BB270 | 40 | 
-| | | Q_11_32 | BB271, BB272, BB273 | 56,67 | 
-| | | Q_11_34 | BB277, BB278, BB279 | 114,29 | 
-| 6 | Decaffeinated coffee | Q_11_35 | BB280, BB281, BB282 | 2 | 
-| 7 | Black tea | Q_11_37 | BB286, BB287, BB288 | 16 | 
-| 8 | Dessert containing cocoa | Q_24_1 | BB717, BB718, BB719 | 2,5 | 
-| 9 | Cake containing cocoa | Q_25_5 | BB753, BB754, BB755 | 3,92 | 
-| 10 | Chocolate | Q_26_1 | BB759, BB760, BB761 | 38 | 
-| | | Q_26_2 | BB762, BB763, BB764 | 15 | 
-| 11 | Sweets containing cocoa | Q_26_3 | BB765, BB766, BB767 | 9,38 | 
-| 12 | Cappuccino and cafe latte (coffee with milk) | Q_11_33 | BB274, BB275, BB276 | 21 | 
-
 ### Important papers
 #### Nutrient intakes calculated from dietary supplements reported in the Food frequency questionnaire
