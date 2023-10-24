@@ -9,4 +9,5 @@
 3. Read this before analyses (må oppdatere avsnitt om major changes). Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
 4. Questionnaire (endel som gjenstår)
 5. Medical Birth Registry (MBR) - Utgår: Vi leverer ikke data fra MFR, så fjerner denne siden.
+6. 6. Generated variables (ok)
    
