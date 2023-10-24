@@ -2,7 +2,7 @@
 
 **Important considerations when working with data from food frequency questionnaires**
 
-### Background 
+### Introduction 
 Food frequency questionnaires are relatively crude instruments asking respondents to recall and report the average intake of various food and drink items during a defined time. The ability and willingness to respond accurately to these questions differ between respondents. Both overreporting and underreporting will occur.  
 
 MoBa does not exclude any reports based on quality of reporting before delivering data from food frequency questionnaires to research projects. Each research project is required to consider criteria for inclusion/exclusion of reports. The most common approach, and suggested cut-off values, are discussed in the section below.  
