@@ -177,10 +177,6 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>15</td>
     </tr>
    </tbody>
- <tbody><tr><td>6 </td><td>Decaffeinated coffee </td><td>Q_11_35 </td><td>BB280, BB281, BB282 </td><td>2 </td></tr></tbody>
- <tbody><tr><td>7 </td><td>Black tea </td><td>Q_11_37 </td><td>BB286, BB287, BB288 </td><td>16 </td></tr></tbody>
- <tbody><tr><td>8 </td><td>Dessert containing cocoa </td><td>Q_24_1 </td><td>BB717, BB718, BB719 </td><td>2,5 </td></tr></tbody>
- <tbody><tr><td>9 </td><td>Cake containing cocoa </td><td>Q_25_5 </td><td>BB753, BB754, BB755 </td><td>3,92 </td></tr></tbody>
  <tbody>
     <tr>
       <td rowspan=4>5</td>
@@ -205,6 +201,10 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>114,29</td>
     </tr>
   </tbody>
+  <tbody><tr><td>6 </td><td>Decaffeinated coffee </td><td>Q_11_35 </td><td>BB280, BB281, BB282 </td><td>2 </td></tr></tbody>
+ <tbody><tr><td>7 </td><td>Black tea </td><td>Q_11_37 </td><td>BB286, BB287, BB288 </td><td>16 </td></tr></tbody>
+ <tbody><tr><td>8 </td><td>Dessert containing cocoa </td><td>Q_24_1 </td><td>BB717, BB718, BB719 </td><td>2,5 </td></tr></tbody>
+ <tbody><tr><td>9 </td><td>Cake containing cocoa </td><td>Q_25_5 </td><td>BB753, BB754, BB755 </td><td>3,92 </td></tr></tbody>
    <tbody>
     <tr>
       <td rowspan=2>10</td>
