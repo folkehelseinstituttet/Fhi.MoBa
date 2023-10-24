@@ -126,11 +126,11 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q13Y, Questionnaire 13 years
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-youth-diet.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
-| -- | -- | -- | -- | -- | -- | -- | 
-| Q13Y A | -- | -- | -- | -- | -- | -- | 
-| Q13Y B | -- | -- | -- | -- | -- | -- | 
-| Q13Y C | -- | -- | -- | -- | -- | -- | 
+| Version | Original | English translation | Period of use | # in version 12 |
+| -- | -- | -- | -- | -- | 
+| Q13Y A | -- | -- | -- | -- | 
+| Q13Y B | -- | -- | -- | -- | 
+| Q13Y C | -- | -- | -- | -- | 
 
 ### Q14Y, Questionnaire 14 years
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q14_barn.pdf) for a description of changes between Versions. 
