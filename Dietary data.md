@@ -96,6 +96,7 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
      <td>L4 Name D</td>
      <td>L5 Name D</td>
    </tr>
+   </tbody>
 </table>
 
 <table>
@@ -119,6 +120,7 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>L4 name B</td>
       <td>L5 name B</td>
     </tr>
+   </tbody>
 </table>
 
 <table>
@@ -144,6 +146,7 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>L4 name B</td>
       <td>L5 name B</td>
     </tr>
+   </tbody>
 </table>
 
 ############################################
@@ -156,6 +159,11 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
     <th>Caffeine (mg)100 g </th>
   </thead>
   <tbody>
+   <tbody><tr><td>1 </td><td>Sandwich spread containing cocoa  </td><td>Q_8_30 </td><td>BB144, BB145, BB146 </td><td>12,5 </td></tr></tbody>
+   <tbody><tr><td>2 </td><td>Milk containing cocoa  </td><td>Q_11_10 </td><td>BB205, BB206, BB207 </td><td>2 </td></tr></tbody>
+   <tbody><tr><td>3 </td><td>Caffeinated soft drink,  artificial sweetened </td><td>Q_11_20 </td><td>BB235, BB236, BB237 </td><td>11,85 </td></tr></tbody>
+    <tbody>
+     <tr>
     <tr>
       <td rowspan=2>4</td>
       <td rowspan=2>Caffeinated soft drink,  sugar sweetened  (cola- and energy drink)</td>
@@ -169,6 +177,10 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>15</td>
     </tr>
    </tbody>
+ <tbody><tr><td>6 </td><td>Decaffeinated coffee </td><td>Q_11_35 </td><td>BB280, BB281, BB282 </td><td>2 </td></tr></tbody>
+ <tbody><tr><td>7 </td><td>Black tea </td><td>Q_11_37 </td><td>BB286, BB287, BB288 </td><td>16 </td></tr></tbody>
+ <tbody><tr><td>8 </td><td>Dessert containing cocoa </td><td>Q_24_1 </td><td>BB717, BB718, BB719 </td><td>2,5 </td></tr></tbody>
+ <tbody><tr><td>9 </td><td>Cake containing cocoa </td><td>Q_25_5 </td><td>BB753, BB754, BB755 </td><td>3,92 </td></tr></tbody>
  <tbody>
     <tr>
       <td rowspan=4>5</td>
@@ -207,6 +219,8 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>15</td>
     </tr>
    </tbody>
+   <tbody><tr><td>11 </td><td>Sweets containing cocoa </td><td>Q_26_3 </td><td>BB765, BB766, BB767 </td><td>9,38 </td></tr></tbody>
+   <tbody><tr><td>12 </td><td>Cappuccino and cafe latte (coffee with milk) </td><td>Q_11_33 </td><td>BB274, BB275, BB276 </td><td>21 </td></tr></tbody>
 </table>
 
 | Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)/100 g | 
