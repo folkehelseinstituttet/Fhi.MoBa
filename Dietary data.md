@@ -143,6 +143,31 @@ Some dietary supplements contain caffeine. The amount of caffeine contributed fr
       <td>BB241, BB242, BB243</td>
       <td>15</td>
     </tr>
+   </tbody>
+ <tbody>
+    <tr>
+      <td rowspan=4>5</td>
+      <td rowspan=4>Coffee (filtered, percolatedpressed, powdered instant and espresso) </td>
+      <td>Q_11_30</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>BB265, BB266, BB267</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+      <tr>
+      <td>11,85</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+      <tr>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+  </tbody>
 </table>
 
 | Group no. | Description | Q. no in FFQ* (Q2E)  | Variable name* | Caffeine (mg)100 g | 
