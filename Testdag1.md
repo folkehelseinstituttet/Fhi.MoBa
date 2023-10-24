@@ -10,4 +10,91 @@
 4. Questionnaire (endel som gjenstår)
 5. Medical Birth Registry (MBR) - Utgår: Vi leverer ikke data fra MFR, så fjerner denne siden.
 6. 6. Generated variables (ok)
-   
+
+##Syntax
+
+   <table>
+  <thead>
+    <th>Layer 1 </th>
+    <th>Layer 2 </th>
+    <th>Layer 3 </th>
+    <th>Layer 4 </th>
+    <th>Layer 5 </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=4>L1 Name A</td>
+      <td rowspan=2>L2 Name A</td>
+      <td>L3 Name A</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+    <tr>
+      <td rowspan=2>L2 name B</td>
+      <td>L3 Name C</td>
+      <td>L4 Name C</td>
+      <td>L5 Name C</td>
+    </tr>
+   <tr>
+     <td>L3 Name D</td>
+     <td>L4 Name D</td>
+     <td>L5 Name D</td>
+   </tr>
+   </tbody>
+</table>
+
+<table>
+  <thead>
+    <th>Layer 1 </th>
+    <th>Layer 2 </th>
+    <th>Layer 3 </th>
+    <th>Layer 4 </th>
+    <th>Layer 5 </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=2>L1 Name A</td>
+      <td rowspan=2>L2 Name A</td>
+      <td>L3 Name A</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+   </tbody>
+</table>
+
+<table>
+  <thead>
+    <th>Layer 1 </th>
+    <th>Layer 2 </th>
+    <th>Layer 3 </th>
+    <th>Layer 4 </th>
+    <th>Layer 5 </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>L1 Name A</td>
+      <td>L2 Name A</td>
+      <td>L3 Name A</td>
+      <td>L4 Name A</td>
+      <td>L5 Name A</td>
+    </tr>
+    <tr>
+      <td>L1 Name A</td>
+      <td>L2 Name A</td>
+      <td>L3 name B</td>
+      <td>L4 name B</td>
+      <td>L5 name B</td>
+    </tr>
+   </tbody>
+</table>
+
