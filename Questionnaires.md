@@ -58,7 +58,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 4A | [Skjema4A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4A.pdf) | | | | 08.2000 - 10.2002 | 7.951 |
 | 4B/C/D/E* | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4B.pdf) | | | Skjema4B/C/D/E.pdf | 11.2002 - 01.2006 | 34.478 |
 | 4F | [Skjema4F.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4F.pdf) | | | Skjema4F.pdf | 01.2006 - 02.2007 | 14.675 |
-| 4G | [Skjema4G.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/English/Q4g.pdf) | Questionnaire4G.pdf | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
+| 4G | [Skjema4G.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/English/Q4G.pdf) | Questionnaire4G.pdf | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
 | 4H | [Skjema4H.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4H.pdf) | | | Skjema4H.pdf | 12.2007 - 02.2010 | 20.562 |
 
 _*Only minor changes in question formulation_
