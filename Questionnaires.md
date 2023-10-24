@@ -56,10 +56,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 4A | [Skjema4A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4A.pdf) | | | | 08.2000 - 10.2002 | 7.951 |
-| 4B/C/D/E* | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4B.pdf) | | | Skjema4B/C/D/E.pdf | 11.2002 - 01.2006 | 34.478 |
-| 4F | [Skjema4F.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4F.pdf) | | | Skjema4F.pdf | 01.2006 - 02.2007 | 14.675 |
-| 4G | [Skjema4G.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/English/Q4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/Annotated/Q4G_annotated_English.pdf) | Skjema4G.pdf | 02.2007 - 12.2007 | 11.989 |
-| 4H | [Skjema4H.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4H.pdf) | | | Skjema4H.pdf | 12.2007 - 02.2010 | 20.562 |
+| 4B/C/D/E* | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4B.pdf) | | | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/withDef/4BCDE_def.pdf) | 11.2002 - 01.2006 | 34.478 |
+| 4F | [Skjema4F.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4F.pdf) | | | [Skjema4F.pdf](PDF/MoBaQuestionnaires/withDef/4F_def.pdf) | 01.2006 - 02.2007 | 14.675 |
+| 4G | [Skjema4G.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/English/Q4G.pdf) | [Questionnaire4G.pdf](PDF/MoBaQuestionnaires/Annotated/Q4G_annotated_English.pdf) | [Skjema4G.pdf](PDF/MoBaQuestionnaires/withDef/4G_def.pdf) | 02.2007 - 12.2007 | 11.989 |
+| 4H | [Skjema4H.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4H.pdf) | | | [Skjema4H.pdf](PDF/MoBaQuestionnaires/withDef/4H_def.pdf) | 12.2007 - 02.2010 | 20.562 |
 
 _*Only minor changes in question formulation_
 
@@ -68,11 +68,11 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 5A | [Skjema5A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5A.pdf) | | | Skjema5A.pdf | 12.2001 - 07.2003 | 5.007 |
-| 5B | [Skjema5B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5B.pdf) | | | Skjema5B.pdf | 07.2003 - 03.2005 | 13.008 |
-| 5C | [Skjema5C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5C.pdf) | | | Skjema5C.pdf | 03.2005 - 06.2007 | 23.635 |
-| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/Annotated/Q5D_annotated_English.pdf) | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
-| 5E | [Skjema5E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5E.pdf) | | | Skjema5E.pdf | 12.2008 -01.2011 | 17.359 |
+| 5A | [Skjema5A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5A.pdf) | | | [Skjema5A.pdf](PDF/MoBaQuestionnaires/withDef/5A_def.pdf) | 12.2001 - 07.2003 | 5.007 |
+| 5B | [Skjema5B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5B.pdf) | | | [Skjema5B.pdf](PDF/MoBaQuestionnaires/withDef/5B_def.pdf) | 07.2003 - 03.2005 | 13.008 |
+| 5C | [Skjema5C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5C.pdf) | | | [Skjema5C.pdf](PDF/MoBaQuestionnaires/withDef/5C_def.pdf) | 03.2005 - 06.2007 | 23.635 |
+| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/Annotated/Q5D_annotated_English.pdf) | [Skjema5D.pdf](PDF/MoBaQuestionnaires/withDef/5D_def.pdf) | 06.2007 - 12.2008 | 17.395 |
+| 5E | [Skjema5E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5E.pdf) | | | [Skjema5E.pdf](PDF/MoBaQuestionnaires/withDef/5E_def.pdf) | 12.2008 -01.2011 | 17.359 |
 
 ### Q6, Questionnaire 6 (3 years) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q6.pdf) and Q6_changes.pdf (in Norwegian:SKJEMA_6_endringer.pdf, SKJEMA_6_endringer_bilder.pdf) for a description of changes between Versions. 
@@ -80,11 +80,11 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | | 11.2004 - 03.2005 | 1.238 |
-| 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | Skjema6B.pdf | 04.2005 - 04.2006 | 7.014 |
-| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/Annotated/Q6C_annotated_English.pdf) | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
-| 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | Skjema6D.pdf | 06.2010 - 07.2012 | 10.980 |
+| 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | [Skjema6B.pdf](PDF/MoBaQuestionnaires/withDef/6B_def.pdf) | 04.2005 - 04.2006 | 7.014 |
+| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/Annotated/Q6C_annotated_English.pdf) | [Skjema6C.pdf](PDF/MoBaQuestionnaires/withDef/6C_def.pdf) | 04.2006 - 07.2010 | 33.712 |
+| 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | [Skjema6D.pdf](PDF/MoBaQuestionnaires/withDef/6D_def.pdf) | 06.2010 - 07.2012 | 10.980 |
 | 6-1* | [Skjema6-1.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-1.pdf) | | | | 06.2006 | Not included |
-| 6-2* | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
+| 6-2* | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/withDef/62.pdf) | 06.2006 & 12.2006 | 740 |
 | 6-3* | [Skjema6-3.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-3.pdf) | | | | 12.2006 & 06.2007 | Not included |
 | 6 Web (identical to C) | | | | | 02.2007 - 12.2011 | 5.154 |
 
