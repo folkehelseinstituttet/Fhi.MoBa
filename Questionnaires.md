@@ -83,9 +83,9 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | Skjema6B.pdf | 04.2005 - 04.2006 | 7.014 |
 | 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | Questionnaire6C.pdf | Questionnaire6C.pdf | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
 | 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | Skjema6D.pdf | 06.2010 - 07.2012 | 10.980 |
-| 6-1* | Skjema6-1.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-1.pdf) | | | | 06.2006 | Not included |
-| 6-2* | Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
-| 6-3* | Skjema6-3.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-3.pdf) | | | | 12.2006 & 06.2007 | Not included |
+| 6-1* | [Skjema6-1.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-1.pdf) | | | | 06.2006 | Not included |
+| 6-2* | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
+| 6-3* | [Skjema6-3.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-3.pdf) | | | | 12.2006 & 06.2007 | Not included |
 | 6 Web (identical to C) | | | | | 02.2007 - 12.2011 | 5.154 |
 
 _*A pilot study dividing questionnaire 6 into 3 parts and sent out as the child turned 2.5, 3 and 3.5 years. 6-2 was the questionnaire send out when the child was 3 years old._
