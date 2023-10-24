@@ -19,11 +19,11 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 The MoBa food frequency questionnaire for assessing diet during pregnancy was developed specifically for pregnant women in MoBa and has been extensively validated. Researchers using dietary data from questionnaire 2 is encouraged to read and cite (if relevant) at least one of papers from the validation study (2-6).  
 
 <a id="1">[1]</a>	 _Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):14-27_ <br>
-<a id="1">[2]</a>	_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):28-43_ <br>
-<a id="1">[3]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
-<a id="1">[4]</a>	_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr 2009;63(3):347-54_ <br>
-<a id="1">[5]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
-<a id="1">[6]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
+<a id="2">[2]</a>	_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):28-43_ <br>
+<a id="3">[3]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
+<a id="4">[4]</a>	_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr 2009;63(3):347-54_ <br>
+<a id="5">[5]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
+<a id="6">[6]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
 
  ## Nutrient intakes calculated from dietary supplements
  ### Important papers
@@ -130,6 +130,19 @@ _Table 1 Summary caffeine groups_
    <tbody><tr><td>12 </td><td>Cappuccino and cafe latte (coffee with milk) </td><td>Q_11_33 </td><td>BB274, BB275, BB276 </td><td>21 </td></tr></tbody>
 </table>
 
+# Important papers
+References: 
+<a id="1_1">[1]</a>	_Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42_ <br>
+<a id="1_2">[2]</a>		_Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6_ <br>
+<a id="1_3">[31]</a>		_Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895_ <br>
+<a id="1_4">[4]</a>		_Modzelewska D, Bellocco R, Elfvin A, Brantsaeter AL, Meltzer HM, Jacobsson B, et al. Caffeine exposure during pregnancy, small for gestational age birth and neonatal outcome - results from the Norwegian Mother and Child Cohort Study. BMC Pregnancy Childbirth. 2019;19(1):80_ <br>
+<a id="1_5">[5]</a>		_Haugen M, Brantsaeter AL, Alexander J, Meltzer HM. Dietary Supplements Contribute Substantially to the Total Nutrient Intake in Pregnant Norwegian Women. AnnNutrMetab. 2008;52(4):272-80_ <br>
+<a id="1_6">[6]</a>		_Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr. 2008;4(1):14-27_ <br>
+<a id="1_7">[7]</a>		_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr. 2008;4(1):28-43_ <br>
+<a id="1_8">[8]</a>		_Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab. 2007;51(2):146-54_ <br>
+<a id="1_9">[9]</a>		_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr. 2009;63(3):347-54_ <br>
+<a id="1_10">[10]</a>		_Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr. 2007;10(8):838-47_ <br>
+<a id="1_11">[11]</a>		_Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr. 2010;13(1):54-62_ <br>
 
 # Dietary questionnaire to youths (Q-youth diet) 
 ## Nutrient intakes calculatied from food
