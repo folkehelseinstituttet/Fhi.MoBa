@@ -131,7 +131,6 @@ _Table 1 Summary caffeine groups_
 </table>
 
 # Important papers
-References: 
 <a id="1_1">[1]</a>	_Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42_ <br>
 <a id="1_2">[2]</a>		_Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6_ <br>
 <a id="1_3">[31]</a>		_Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895_ <br>
