@@ -22,7 +22,7 @@ Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument d
 | -- | -- | -- | -- | -- | -- | -- | 
 | 1A | [Skjema1A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1A.pdf) |  |  | [Skjema1A.pdf](PDF/MoBaQuestionnaires/withDef/1A_def.pdf)  | 06.1999 - 10.2000 | 2.564 |
 | 1B | [Skjema1B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1B.pdf) |  |  | [Skjema1B.pdf](PDF/MoBaQuestionnaires/withDef/1B_def.pdf) | 11.2000 - 03.2003 | 20.399 |
-| 1C/D* | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1D.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/English/Q1C.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q1C_annotated_English.pdf) | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/withDef/1CD_def.pdf) | 03.2003 - 11.2006 | 54.116 |
+| 1C/D* | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1D.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/English/Q1C.pdf) | [Questionnaire1C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q1C_annotated_English.pdf) | [Skjema1C/D.pdf](PDF/MoBaQuestionnaires/withDef/1CD.pdf) | 03.2003 - 11.2006 | 54.116 |
 | 1E | [Skjema1E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1E.pdf) |  |  | [Skjema1E.pdf](PDF/MoBaQuestionnaires/withDef/1E_def.pdf) | 12.2006 - 01.2009 | 25.072 |
 
 _*Only minor changes in question formulation_
@@ -34,7 +34,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | -- | -- | -- | -- | -- | -- | -- | 
 | 2A | [Skjema2A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2A.pdf) | | | | 06.1999 - 02.2000 | 729 |
 | 2B | [Skjema2B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2B.pdf) | | | | 02.2000 - 01.2002 | 8.582 |
-| 2C | [Skjema2C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2C.pdf) | [Questionnaire2C.pdf](PDF/MoBaQuestionnaires/English/Q2C.pdf) | | Skjema2C.pdf | 02.2002 - 07.2003 | 18.932 |
+| 2C | [Skjema2C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2C.pdf) | [Questionnaire2C.pdf](PDF/MoBaQuestionnaires/English/Q2C.pdf) | | [Skjema2C.pdf](PDF/MoBaQuestionnaires/withDef/2C_def.pdf) | 02.2002 - 07.2003 | 18.932 |
 | 2D | [Skjema2D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2D_Skjema2DBG.pdf) | | [Questionnaire2D.pdf](PDF/MoBaQuestionnaires/Annotated/Q2D_annotated_English.pdf) | | 08.2003 - 02.2009 | 63.912 |
 | 2 Web (identical to D) | | | | | 09.2006 - 02.2009 | 4.846 |
 
@@ -45,8 +45,8 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | -- | -- | -- | -- | -- | -- | -- | 
 | 3A | [Skjema3A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3A.pdf) | | | | 01.2000 - 07.2001 | 4.454 |
 | 3B | [Skjema3B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3B.pdf) | | | | 08.2001 - 11.2001 | 864 |
-| 3C/D* | [Skjema3C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3C.pdf) | [Questionnaire3C/D.pdf](PDF/MoBaQuestionnaires/English/Q3C.pdf) | [Questionnaire3C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q3C_annotated_English.pdf) | Skjema3C/D.pdf | 11.2001 - 01.2007 | 62.966 |
-| 3E | [Skjema3E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3E.pdf) | | | Skjema3E.pdf | 01.2007 - 04.2009 | 25.872 |
+| 3C/D* | [Skjema3C/D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3C.pdf) | [Questionnaire3C/D.pdf](PDF/MoBaQuestionnaires/English/Q3C.pdf) | [Questionnaire3C/D.pdf](PDF/MoBaQuestionnaires/Annotated/Q3C_annotated_English.pdf) | [Skjema3C/D.pdf](PDF/MoBaQuestionnaires/withDef/3CD_def.pdf) | 11.2001 - 01.2007 | 62.966 |
+| 3E | [Skjema3E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3E.pdf) | | | [Skjema3E.pdf](PDF/MoBaQuestionnaires/withDef/3E_def.pdf) | 01.2007 - 04.2009 | 25.872 |
 
 _*Only minor changes in question formulation_
 
