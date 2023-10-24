@@ -35,8 +35,7 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 
 The questionnaire for youths in MoBa is less comprehensive than the questionnaire for pregnant women in MoBa and include fewer questions. Suggested lower cut-off value is 3.0 MJ/day (700 kcal) for both boys and girls. Suggested upper cut-off values is 14.6 MJ/day (3500 kcal) for girls and 18 MJ (4300 kcal) for boys. This would exclude around 3-5% of the study population, where more are excluded in the upper end of the distribution than in the lower end. These are, however, only suggestions and each research project needs to consider which cut-off values to use and whether to differentiate the cut-off values for boys and girls. 
 
-## Caffeine calculation in MoBa 
-### Dietary questionnaire in pregancy (Q2) - calculations from food
+## Caffeine calculation from food - Dietary questionnaire in pregancy (Q2)
 Caffeine is present not only in beverages, but also in foods containing cocoa. Total caffeine intake is calculated from the comprehensive food frequency questionnaire (FFQ) answered in gestational week 22 (Questionnaire 2). The FFQ asks about intake of 255 food and beverage items and is a semiquantitative FFQ designed to record dietary habits during the first 4–5 months of gestation. 
 
 1. The calculated caffeine variables comprise of total caffeine intake (mg/day) and caffeine intake (mg/day) from 12 defined groups:  
