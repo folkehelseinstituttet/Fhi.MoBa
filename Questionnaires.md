@@ -71,7 +71,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 5A | [Skjema5A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5A.pdf) | | | Skjema5A.pdf | 12.2001 - 07.2003 | 5.007 |
 | 5B | [Skjema5B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5B.pdf) | | | Skjema5B.pdf | 07.2003 - 03.2005 | 13.008 |
 | 5C | [Skjema5C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5C.pdf) | | | Skjema5C.pdf | 03.2005 - 06.2007 | 23.635 |
-| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5d.pdf) | Questionnaire5D.pdf | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
+| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | Questionnaire5D.pdf | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
 | 5E | [Skjema5E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5E.pdf) | | | Skjema5E.pdf | 12.2008 -01.2011 | 17.359 |
 
 ### Q6, Questionnaire 6 (3 years) 
@@ -81,7 +81,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | -- | -- | -- | -- | -- | -- | -- | 
 | 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | | 11.2004 - 03.2005 | 1.238 |
 | 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | Skjema6B.pdf | 04.2005 - 04.2006 | 7.014 |
-| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6c.pdf) | Questionnaire6C.pdf | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
+| 6C | [Skjema6C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6C.pdf) | [Questionnaire6C.pdf](PDF/MoBaQuestionnaires/English/Q6C.pdf) | Questionnaire6C.pdf | Skjema6C.pdf | 04.2006 - 07.2010 | 33.712 |
 | 6D | [Skjema6D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6D.pdf) | | | Skjema6D.pdf | 06.2010 - 07.2012 | 10.980 |
 | 6-1* | [Skjema6-1.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-1.pdf) | | | | 06.2006 | Not included |
 | 6-2* | [Skjema6-2.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6-2.pdf) | | | Skjema6-2.pdf | 06.2006 & 12.2006 | 740 |
