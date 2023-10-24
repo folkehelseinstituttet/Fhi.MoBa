@@ -71,7 +71,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 5A | [Skjema5A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5A.pdf) | | | Skjema5A.pdf | 12.2001 - 07.2003 | 5.007 |
 | 5B | [Skjema5B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5B.pdf) | | | Skjema5B.pdf | 07.2003 - 03.2005 | 13.008 |
 | 5C | [Skjema5C.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5C.pdf) | | | Skjema5C.pdf | 03.2005 - 06.2007 | 23.635 |
-| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D_annoted_English.pdf) | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
+| 5D | [Skjema5D.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/English/Q5D.pdf) | [Questionnaire5D.pdf](PDF/MoBaQuestionnaires/Annotated/Q5D_annotated_English.pdf) | Skjema5D.pdf | 06.2007 - 12.2008 | 17.395 |
 | 5E | [Skjema5E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5E.pdf) | | | Skjema5E.pdf | 12.2008 -01.2011 | 17.359 |
 
 ### Q6, Questionnaire 6 (3 years) 
