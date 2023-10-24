@@ -95,17 +95,17 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 5years A | Skjema5aarA.pdf | | | Skjema5aarA.pdf | 02.2010 - 12.2011 | 14.871 |
-| 5years B | Skjema5aarB.pdf | Questionnaire5yB.pdf | | Skjema5aarB.pdf | 05.2011 - 07.2014 | 26.746 |
+| 5years A | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarA.pdf) | | | Skjema5aarA.pdf | 02.2010 - 12.2011 | 14.871 |
+| 5years B | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarB.pdf) | Questionnaire5yB.pdf | | Skjema5aarB.pdf | 05.2011 - 07.2014 | 26.746 |
 
 ### Q7Y, Questionnaire 7 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-dokumentasjon-q_7y_2016.pdf) and Q7years_changes.pdf (in Norwegian: SKJEMA_7_endringer.pdf) for a description of changes between Versions. 
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 7years A | Skjema7aarA.pdf | | | Skjema7aarA.pdf | 03.2008 - 08.2008 | 2053 |
-| 7years B | Skjema7aarB.pdf | | | Skjema7aarB.pdf | 10.2009 - 02.2010 | 4.783 |
-| 7years C | Skjema7aarC.pdf | Questionnaire7yC.pdf | | Skjema7aarC.pdf | 04.2010 - 07.2016 | 47.270 |
+| 7years A | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarA.pdf) | | | Skjema7aarA.pdf | 03.2008 - 08.2008 | 2053 |
+| 7years B | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarB.pdf) | | | Skjema7aarB.pdf | 10.2009 - 02.2010 | 4.783 |
+| 7years C | [Skjema7aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarC.pdf) | Questionnaire7yC.pdf | | Skjema7aarC.pdf | 04.2010 - 07.2016 | 47.270 |
 | 7years Web (identical to C) | | | | | 09.2010 - 10.2011 | 671 |
 
 ### Q8Y, Questionnaire 8 years 
@@ -113,10 +113,10 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 
 | Version | Original | English translation | Annotated | Variable labels | Period of use | # in version 12 |
 | -- | -- | -- | -- | -- | -- | -- | 
-| 8years A Short | Skjema8aarKort.pdf | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
-| 8years A Long | Skjema8aarLang.pdf | | | Skjema8aarLang.pdf | 02.2011 - 05.2011 | 4.054 |
-| 8years B | Skjema8aarB.pdf | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
-| 8years C | Skjema8aarC.pdf | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
+| 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/8aarKort.pdf) | | | Skjema8aarKort.pdf | 02.2011 - 04.2011 | 231 |
+| 8years A Long | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarLang.pdf) | | | Skjema8aarLang.pdf | 02.2011 - 05.2011 | 4.054 |
+| 8years B | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarB.pdf) | | | Skjema8aarB.pdf | 07.2011 - 03.2012 | 3.823 |
+| 8years C | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarC.pdf) | Questionnaire8yC.pdf | | Skjema8aarC.pdf | 05.2012 - 07.2017 | 35.508 |
 
 ### Questionnaires to schools - 8 years
 
