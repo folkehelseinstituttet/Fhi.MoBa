@@ -25,5 +25,21 @@ These consist of the first digit of the occupation code for the mother and the f
  | 9 | Elementary occupations | 
  | 0 | Armed forces and unspecified | 
 
-<br> Note that some have given more than one occupation. Codes for each occupation are then listed, separated by a hyphen (-). For instance, some have the value "4-6" which means that two occupations are given, one of them is categorized as "Clerks" and the other is categorized as "Skill agricultural and fishery workers". Some extra codes have been used in addition to the ones included in STYRK. These are given in the table below. Note that all these will end up in the category "Armed forces and unspecified" for the variables (M_OCCU and F_OCCU).
+<br> Note that some have given more than one occupation. Codes for each occupation are then listed, separated by a hyphen (-). For instance, some have the value "4-6" which means that two occupations are given, one of them is categorized as "Clerks" and the other is categorized as "Skill agricultural and fishery workers". 
 
+### Other codes used
+Some extra codes have been used in addition to the ones included in STYRK. These are given in the table below. Note that all these will end up in the category "Armed forces and unspecified" for the variables (M_OCCU and F_OCCU).
+
+ | Code | Occupation | 
+ | -- | -- |
+ | 200 | Student (including high school, other courses, etc) | 
+ | 201 | At home | 
+ | 202 | Unemployed / work seeking | 
+ | 203 | On social security (including disability benefits) | 
+ | 300 | Sick leave | 
+ | 301 | On leave (paid maternity leave, paid father's leave, unpaid leave etc.) | 
+ | 302 | Flexible leave in connection with returning to work after maternity leave | 
+ | 303 | Temporary employment | 
+ | 304 | Summer job / seasonal work | 
+ | 305 | Rehabilitation | 
+ | 306 | Laid off | 
