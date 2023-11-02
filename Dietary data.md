@@ -124,17 +124,7 @@ _Table 1 Summary caffeine groups_
 </table>
 
 # Important papers
-<a id="1_1">[1]</a>	_Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42_ <br>
-<a id="1_2">[2]</a>		_Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6_ <br>
-<a id="1_3">[31]</a>		_Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895_ <br>
-<a id="1_4">[4]</a>		_Modzelewska D, Bellocco R, Elfvin A, Brantsaeter AL, Meltzer HM, Jacobsson B, et al. Caffeine exposure during pregnancy, small for gestational age birth and neonatal outcome - results from the Norwegian Mother and Child Cohort Study. BMC Pregnancy Childbirth. 2019;19(1):80_ <br>
-<a id="1_5">[5]</a>		_Haugen M, Brantsaeter AL, Alexander J, Meltzer HM. Dietary Supplements Contribute Substantially to the Total Nutrient Intake in Pregnant Norwegian Women. AnnNutrMetab. 2008;52(4):272-80_ <br>
-<a id="1_6">[6]</a>		_Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr. 2008;4(1):14-27_ <br>
-<a id="1_7">[7]</a>		_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr. 2008;4(1):28-43_ <br>
-<a id="1_8">[8]</a>		_Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab. 2007;51(2):146-54_ <br>
-<a id="1_9">[9]</a>		_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr. 2009;63(3):347-54_ <br>
-<a id="1_10">[10]</a>		_Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr. 2007;10(8):838-47_ <br>
-<a id="1_11">[11]</a>		_Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr. 2010;13(1):54-62_ <br>
+
 
 # Dietary questionnaire to youths (Q-youth diet) 
 ## Nutrient intakes calculatied from food
