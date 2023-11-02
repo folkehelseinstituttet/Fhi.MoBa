@@ -157,7 +157,7 @@ The questionnaire for youths in MoBa is less comprehensive than the questionnair
 ## Nutrient intakes calculated from dietary supplements reported in the Food frequency Questionnaire
 <a id="3">[6]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
 <a id="6">[7]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
-<a id="6">[8]</a> Haugen et al. ANM 2008 https://www.ncbi.nlm.nih.gov/pubmed/18645244 <br>
+<a id="6">[8]</a> Haugen M, Brantsaeter AL, Alexander J, Meltzer HM. Dietary Supplements Contribute Substantially to the Total Nutrient Intake in Pregnant Norwegian Women. AnnNutrMetab. 2008;52(4):272-80; https://www.ncbi.nlm.nih.gov/pubmed/18645244 <br>
 <a id="6">[9]</a> Nilsen et al. AJCN 2006 https://www.ncbi.nlm.nih.gov/pubmed/17093167(folic acid) <br>
 
 ## Calculated nutrient intakes other than the nutrients in the regular data delivery from Q2
@@ -172,6 +172,6 @@ The questionnaire for youths in MoBa is less comprehensive than the questionnair
 <a id="6">[16]</a> Kadawathagedara et al. Environ Int. 2018;113:325–334. https://pubmed.ncbi.nlm.nih.gov/29398013/ (Exposure to Acrylamide) <br>
 
 ## Calculated coffein exposure
-<a id="6">[17]</a> Sengpiel et al. BMC Med. 2013;11:42. https://pubmed.ncbi.nlm.nih.gov/23421532/ (Caffeine exposure) <br>
-<a id="6">[18]</a> Papadopoulou et al. BMJ Open. 2018;8(3):e018895. https://pubmed.ncbi.nlm.nih.gov/29685923/ (Caffeine exposure) <br>
+<a id="6">[17]</a> [1] Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
+<a id="6">[18]</a> Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895; https://pubmed.ncbi.nlm.nih.gov/29685923/ <br>
 
