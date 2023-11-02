@@ -129,33 +129,33 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 
 The questionnaire for youths in MoBa is less comprehensive than the questionnaire for pregnant women in MoBa and include fewer questions. Suggested lower cut-off value is 3.0 MJ/day (700 kcal) for both boys and girls. Suggested upper cut-off values is 14.6 MJ/day (3500 kcal) for girls and 18 MJ (4300 kcal) for boys. This would exclude around 3-5% of the study population, where more are excluded in the upper end of the distribution than in the lower end. These are, however, only suggestions and each research project needs to consider which cut-off values to use and whether to differentiate the cut-off values for boys and girls. 
 
-# References
+# Important papers
 
-## Nutrient intakes calculated from foods reported in the Food frequency questionnaire
+### Nutrient intakes calculated from foods reported in the Food frequency questionnaire
 <a id="1">[1]</a>	 _Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):14-27_ <br>
 <a id="2">[2]</a>	_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):28-43_ <br>
 <a id="5">[3]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
 <a id="6">[4]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
 <a id="4">[5]</a>	_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr 2009;63(3):347-54_ <br>
 
-## Nutrient intakes calculated from dietary supplements reported in the Food frequency Questionnaire
+### Nutrient intakes calculated from dietary supplements reported in the Food frequency questionnaire
 <a id="3">[6]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
 <a id="6">[7]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
 <a id="6">[8]</a> Haugen M, Brantsaeter AL, Alexander J, Meltzer HM. Dietary Supplements Contribute Substantially to the Total Nutrient Intake in Pregnant Norwegian Women. AnnNutrMetab. 2008;52(4):272-80; https://www.ncbi.nlm.nih.gov/pubmed/18645244 <br>
 <a id="6">[9]</a> Nilsen et al. AJCN 2006 https://www.ncbi.nlm.nih.gov/pubmed/17093167(folic acid) <br>
 
-## Calculated nutrient intakes other than the nutrients in the regular data delivery from Q2
+### Nutrient intakes calculated from foods and supplements reported in Food frequency questionnaire
 <a id="6">[10]</a> Brantsaeter et al. BMC PC 2017 https://pubmed.ncbi.nlm.nih.gov/28103845/ (Fatty acids from fish and from fish oil supplements) <br>
 <a id="6">[11]</a> Abel et al. J Nutr. 2017;147(7):1314–1324. https://pubmed.ncbi.nlm.nih.gov/28515161/ (Iodine from food and from dietary supplements) <br>
 <a id="6">[12]</a> Abel et al. Eur J Nutr. 2019;58(8):3047–3058. https://pubmed.ncbi.nlm.nih.gov/30417257/ (Iodine from food and from dietary supplements) <br>
 
-## Calculated contaminants
+### Calculated contaminants
 <a id="6">[13]</a> Vejrup et al. Environ Int. 2018;110:71–79. https://pubmed.ncbi.nlm.nih.gov/29089166/ (Exposure to mercury) <br>
 <a id="6">[14]</a> Caspersen et al. Environ Int. 2013;59:398–407. https://pubmed.ncbi.nlm.nih.gov/23911340/ (Exposure to PCBs and Dioxins) <br>
 <a id="6">[15]</a> Duarte-Salles et al. Environ Health Perspect. 2013;121(3):374–379. https://pubmed.ncbi.nlm.nih.gov/23204292/ (Exposure to Acrylamide) <br>
 <a id="6">[16]</a> Kadawathagedara et al. Environ Int. 2018;113:325–334. https://pubmed.ncbi.nlm.nih.gov/29398013/ (Exposure to Acrylamide) <br>
 
-## Calculated coffein exposure
+### Calculated coffein exposure
 <a id="6">[17]</a> Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
 <a id="6">[18]</a> Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895; https://pubmed.ncbi.nlm.nih.gov/29685923/ <br>
 <a id="6">[19]</a> Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6 <br>
