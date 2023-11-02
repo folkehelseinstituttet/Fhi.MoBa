@@ -18,10 +18,6 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 ### Important papers
 The MoBa food frequency questionnaire for assessing diet during pregnancy was developed specifically for pregnant women in MoBa and has been extensively validated. Researchers using dietary data from questionnaire 2 is encouraged to read and cite (if relevant) at least one of papers from the validation study ([2], [3], [4], [5], [6]).  
 
- ## Nutrient intakes calculated from dietary supplements
- ### Important papers
-
-
 ## Caffeine calculation from food 
 Caffeine is present not only in beverages, but also in foods containing cocoa. Total caffeine intake is calculated from the comprehensive food frequency questionnaire (FFQ) answered in gestational week 22 (Questionnaire 2). The FFQ asks about intake of 255 food and beverage items and is a semiquantitative FFQ designed to record dietary habits during the first 4–5 months of gestation. 
 
@@ -42,12 +38,12 @@ Caffeine is present not only in beverages, but also in foods containing cocoa. T
 The intake of single nutrients and substances calculated from the FFQ correlates with total energy intake. For caffeine from food, this is particularly relevant for the variable reflecting caffeine from cola- and energy drink. In any analysis using this variable as the exposure, total energy intake should be considered to avoid confounding by energy from sugar. Mutual adjustment is another issue to consider when using the contribution from separate groups as exposure variables. 
 
 #### Description of the caffeine calculation 
-Average, daily caffeine intake is calculated as the aggregated intake (mg/day) from caffeine sources in the FFQ. In total, there are 17 food items in the FFQ defined as caffeine sources in the calculations (See Table 1). Information about caffeine concentrations in coffee, tea and cocoa was obtained from published reports, and the average concentration from multiple analyses was used. For more details and overview of the concentration values see Sengpiel et al. 2013 (1). Other publications using the calculated caffeine intake include Tollånes et al. 2016 (2), Papadopoulou et al. 2018 (3) and Modzelewska et al. 2019 (4).  
+Average, daily caffeine intake is calculated as the aggregated intake (mg/day) from caffeine sources in the FFQ. In total, there are 17 food items in the FFQ defined as caffeine sources in the calculations (See Table 1). Information about caffeine concentrations in coffee, tea and cocoa was obtained from published reports, and the average concentration from multiple analyses was used. For more details and overview of the concentration values see Sengpiel et al. 2013 [17]. Other publications using the calculated caffeine intake include Tollånes et al. 2016 [19], Papadopoulou et al. 2018 [18] and Modzelewska et al. 2019 [20].  
 
 These papers also include intake estimates at different points in time. Caffeine intake from coffee, tea and caffeinated soft drinks (not total intake) from before pregnancy and in early pregnancy can be calculated from the baseline MoBa questionnaire (question 105 in Questionnaire 1E) and intake in late pregnancy can be calculated from the third questionnaire (question 113 in Questionnaire 3E).  
-MoBa recommend referring to Sengpiel et al. (1) when describing the caffeine variables. If there are questions related to the caffeine variables, contact Anne Lise Brantsæter (annelise.brantsaeter@fhi.no) or MorBarnData@fhi.no. 
+MoBa recommend referring to Sengpiel et al. 2013 [17] when describing the caffeine variables. If there are questions related to the caffeine variables, contact MorBarnData@fhi.no. 
 
-Some dietary supplements contain caffeine. The amount of caffeine contributed from supplements has been calculated for FFQ (Questionnaire 2), where women were asked to report supplement use by name and brand. A database of all reported supplements was established and used. See Haugen et al. 2008 for more details (5). The variable with caffeine intake from supplements is named s_koffein_v9. Note that the caffeine intake from supplements is calculated for an older version of the MoBa data files (version 9). 
+Some dietary supplements contain caffeine. The amount of caffeine contributed from supplements has been calculated for FFQ (Questionnaire 2), where women were asked to report supplement use by name and brand. A database of all reported supplements was established and used. See Haugen et al. 2008 [8] for more details. The variable with caffeine intake from supplements is named s_koffein_v9. Note that the caffeine intake from supplements is calculated for an older version of the MoBa data files (version 9). 
 
 _Table 1 Summary caffeine groups_
 <table>
@@ -123,8 +119,6 @@ _Table 1 Summary caffeine groups_
    <tbody><tr><td>12 </td><td>Cappuccino and cafe latte (coffee with milk) </td><td>Q_11_33 </td><td>BB274, BB275, BB276 </td><td>21 </td></tr></tbody>
 </table>
 
-# Important papers
-
 
 # Dietary questionnaire to youths (Q-youth diet) 
 ## Nutrient intakes calculatied from food
@@ -162,6 +156,8 @@ The questionnaire for youths in MoBa is less comprehensive than the questionnair
 <a id="6">[16]</a> Kadawathagedara et al. Environ Int. 2018;113:325–334. https://pubmed.ncbi.nlm.nih.gov/29398013/ (Exposure to Acrylamide) <br>
 
 ## Calculated coffein exposure
-<a id="6">[17]</a> [1] Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
+<a id="6">[17]</a> Sengpiel V, Elind E, Bacelis J, Nilsson S, Grove J, Myhre R, et al. Maternal caffeine intake during pregnancy is associated with birth weight but not with gestational length: results from a large prospective observational cohort study. BMC Med. 2013;11:42; https://pubmed.ncbi.nlm.nih.gov/23421532/  <br>
 <a id="6">[18]</a> Papadopoulou E, Botton J, Brantsaeter AL, Haugen M, Alexander J, Meltzer HM, et al. Maternal caffeine intake during pregnancy and childhood growth and overweight: results from a large Norwegian prospective observational cohort study. BMJ Open. 2018;8(3):e018895; https://pubmed.ncbi.nlm.nih.gov/29685923/ <br>
+<a id="6">[19]</a> Tollanes MC, Strandberg-Larsen K, Eichelberger KY, Moster D, Lie RT, Brantsaeter AL, et al. Intake of Caffeinated Soft Drinks before and during Pregnancy, but Not Total Caffeine Intake, Is Associated with Increased Cerebral Palsy Risk in the Norwegian Mother and Child Cohort Study. J Nutr. 2016;146(9):1701-6 <br>
+<a id="6">[20]</a> Modzelewska D, Bellocco R, Elfvin A, Brantsaeter AL, Meltzer HM, Jacobsson B, et al. Caffeine exposure during pregnancy, small for gestational age birth and neonatal outcome - results from the Norwegian Mother and Child Cohort Study. BMC Pregnancy Childbirth. 2019;19(1):80 <br>
 
