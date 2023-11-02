@@ -11,6 +11,7 @@
 5. Medical Birth Registry (MBR) - Utgår: Vi leverer ikke data fra MFR, så fjerner denne siden.
 6. Generated variables (ok)
 7. Dietary data (ok). Har lagt til avsnitt om koffein kalkulasjon og kostholdsberegninger 13 årskjema
+8. Coding of medication ATC-code (ok)
 
 ##Syntax
 
