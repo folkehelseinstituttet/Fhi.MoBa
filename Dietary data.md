@@ -18,13 +18,6 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 ### Important papers
 The MoBa food frequency questionnaire for assessing diet during pregnancy was developed specifically for pregnant women in MoBa and has been extensively validated. Researchers using dietary data from questionnaire 2 is encouraged to read and cite (if relevant) at least one of papers from the validation study (2-6).  
 
-<a id="1">[1]</a>	 _Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):14-27_ <br>
-<a id="2">[2]</a>	_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):28-43_ <br>
-<a id="3">[3]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
-<a id="4">[4]</a>	_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr 2009;63(3):347-54_ <br>
-<a id="5">[5]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
-<a id="6">[6]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
-
  ## Nutrient intakes calculated from dietary supplements
  ### Important papers
 
@@ -152,3 +145,14 @@ A lower limit of 500 kcal/day (2.1 MJ/day) and an upper limit of 3500 kcal/day (
 
 The questionnaire for youths in MoBa is less comprehensive than the questionnaire for pregnant women in MoBa and include fewer questions. Suggested lower cut-off value is 3.0 MJ/day (700 kcal) for both boys and girls. Suggested upper cut-off values is 14.6 MJ/day (3500 kcal) for girls and 18 MJ (4300 kcal) for boys. This would exclude around 3-5% of the study population, where more are excluded in the upper end of the distribution than in the lower end. These are, however, only suggestions and each research project needs to consider which cut-off values to use and whether to differentiate the cut-off values for boys and girls. 
 
+# References
+
+## Nutrient intakes calculated from foods reported in the Food frequency questionnaire
+<a id="1">[1]</a>	 _Meltzer HM, Brantsaeter AL, Ydersbond TA, Alexander J, Haugen M. Methodological challenges when monitoring the diet of pregnant women in a large study: experiences from the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):14-27_ <br>
+<a id="2">[2]</a>	_Brantsaeter AL, Haugen M, Alexander J, Meltzer HM. Validity of a new food frequency questionnaire for pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Matern Child Nutr 2008;4(1):28-43_ <br>
+<a id="5">[3]</a> _Brantsaeter AL, Haugen M, Rasmussen SE, Alexander J, Samuelsen SO, Meltzer HM. Urine flavonoids and plasma carotenoids in the validation of fruit, vegetable and tea intake during pregnancy in the Norwegian Mother and Child Cohort Study (MoBa). Public Health Nutr 2007;10(8):838-47_ <br>
+<a id="6">[4]</a> _Brantsaeter AL, Haugen M, Thomassen Y, Ellingsen DG, Ydersbond TA, Hagve TA, et al. Exploration of biomarkers for total fish intake in pregnant Norwegian women. Public Health Nutr 2010;13(1):54-62_ <br>
+
+## Nutrient intakes calculated from dietary supplements reported in the Food frequency Questionnaire
+<a id="3">[5]</a> _Brantsaeter AL, Haugen M, Hagve TA, Aksnes L, Rasmussen SE, Julshamn K, et al. Self-Reported Dietary Supplement Use Is Confirmed by Biological Markers in the Norwegian Mother and Child Cohort Study (MoBa). Ann Nutr Metab 2007;51(2):146-54_ <br>
+<a id="4">[6]</a>	_Brantsaeter AL, Haugen M, Julshamn K, Alexander J, Meltzer HM. Evaluation of urinary iodine excretion as a biomarker for intake of milk and dairy products in pregnant women in the Norwegian Mother and Child Cohort Study (MoBa). Eur J Clin Nutr 2009;63(3):347-54_ <br>
