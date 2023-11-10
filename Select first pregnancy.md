@@ -2,8 +2,8 @@
 
 #### Table of Contents
 - _[1. Syntax](#syntax)_ <br>
-	- _[2.1 SPSS syntax](#spss-syntax)_ <br>
- 	- _[2.2 Stata syntax](#stata-syntax)_ <br>
+	- _[1.1 SPSS syntax](#spss-syntax)_ <br>
+ 	- _[1.2 Stata syntax](#stata-syntax)_ <br>
 
 ## Syntax
 ### SPSS syntax
