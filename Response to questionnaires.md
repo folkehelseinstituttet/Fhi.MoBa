@@ -9,6 +9,7 @@
 ## Select the first pregnancy for each woman
 
 ### S1 - Code in SPSS 
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
@@ -67,6 +68,7 @@ FREQ DUPLIKAT.
 ```
 
 ### S2 - Code in Stata
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
@@ -105,6 +107,7 @@ drop n
 ```
 ## Select those who have responded to all questionnaires
 ### S3 - Code in SPSS
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /******************************************************************************************************************
 * Purpose: Select the women who have responded to both the first (Q1) 1, third ((Q3) and fourth questionnaire (Q4). 
