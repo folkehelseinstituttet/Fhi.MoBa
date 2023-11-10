@@ -1,4 +1,8 @@
 # Search in strings
+- Syntax
+    - [SPPS](#SPSS)
+    - [Stata](#Stata)
+
 ## Syntax
 ### SPSS
 ```stata
