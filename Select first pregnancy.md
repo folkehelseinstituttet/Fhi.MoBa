@@ -6,6 +6,7 @@
 
 ## Syntax
 ### SPSS
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
@@ -64,6 +65,7 @@ FREQ DUPLIKAT .
 
 
 ### Stata
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
