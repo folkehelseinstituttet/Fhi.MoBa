@@ -1,13 +1,16 @@
 # Response to questionnaires
 
-- [select the first pregnancy for each woman](##select-the-first-pregnancy-for-each-woman)
-- [select those who have responded to all questionnaires](##-select-those-who-have-responded-to-all-questionnaires)
+- Select the first pregnancy for each woman
+    - [S1: Code in SPSS](###-S1-Code-in-SPSS)
+    - [S2: Code in Stata](###-S2-Code-in-Stata)
+- Select those who have responded to all questionnaires
+    - [S3: Code in SPSS](###-S3-Code-in-SPSS)
   
 ## Select the first pregnancy for each woman
 
-Code in SPSS (scroll down for code in Stata)
+### S1 Code in SPSS 
 
-Code in Stata
+### S2 Code in Stata
 
 ## Select those who have responded to all questionnaires
-Code in SPSS
+### S3 Code in SPSS
