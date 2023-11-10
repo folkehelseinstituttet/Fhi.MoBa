@@ -3,6 +3,7 @@
     - [SPSS](#spss)
     - [Stata](#stata)
 
+
 ## Syntax
 ### SPSS
 ```stata
@@ -31,6 +32,7 @@ FREQ cerclage3.
 ```
 
 ### Stata
+
 ```stata
 /***************************************************************************************************
 * Variable: Fever during labor
