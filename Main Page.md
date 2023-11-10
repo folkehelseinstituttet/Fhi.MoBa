@@ -9,7 +9,7 @@
 An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/) 
 
 ### Genetic data in MoBa
-Information about genetic data in MoBa can be viewed here. More information about the dataset, which files are available and how the quality control was performed, is available on the [MoBa Genetics Github site](https://github.com/folkehelseinstituttet/mobagen). 
+Information about genetic data in MoBa can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/). More information about the dataset, which files are available and how the quality control was performed, is available on the [MoBa Genetics Github site](https://github.com/folkehelseinstituttet/mobagen). 
 
 ### Would you like to contribute with syntax to MoBa's syntax library? 
 
