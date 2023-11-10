@@ -65,4 +65,38 @@ FREQ DUPLIKAT .
 
 ### Stata
 ```stata
+/***************************************************************************************************
+* Purpose: Select the first pregnancy for each woman 
+* Author: Ingeborg Forhtun, Ingeborg.Forthun@fhi.no 
+* Last updated: 09.09.2014 (version 8 of MoBa) 
+****************************************************************************************************/
+
+*Replace PREG_ID_XX and M_ID_XX with the project specific identifiers in the code below. 
+
+*Sort by PREG_ID_XX in the active/open file, save the file
+*Open SV_INFO and sort on PREG_ID_XX, merge SV_INFO with the saved file
+
+tab _merge
+
+*Keep observations that are in both files
+keep if _merge==3
+
+drop _merge
+
+/*Sort by M_ID_XX and PREG_ID_XX so that the pregnancy with the lowest number for PREG_ID_XX for the same mother is
+  ordered first. */
+sort M_ID_XX PREG_ID_XX
+
+*Generate a variable that indicates whether one woman has participated with more than one pregnancy
+bysort M_ID_XX: gen n=_n
+
+*Frequency count for number of pregnancies 
+tab n
+
+brow PREG_ID_1090 M_ID_1090 n
+
+*Keep only the first pregnancy for each woman
+keep if n==1
+
+drop n
 ```
