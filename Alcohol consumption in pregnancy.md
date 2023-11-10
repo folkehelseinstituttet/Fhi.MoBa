@@ -1,9 +1,9 @@
 # Alcohol consumption in pregnancy
 
 - Alcohol consumption before and during pregnancy
-    - [Code in Stata](#S1---code-in-stata)
+    - [S1 - Code in Stata](#S1---code-in-stata)
  - Binge drinking in pregnancy
-   - [Code in Stata](#S2---code-in-stata)
+   - [S2 - Code in Stata](#S2---code-in-stata)
 
 ## Alcohol consumption before and during pregnancy
 ### S1 - Code in Stata
