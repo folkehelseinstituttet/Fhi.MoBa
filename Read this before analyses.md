@@ -62,36 +62,6 @@ Some participants will have data from all questionnaires, while others will only
 Not all questions are present in every version of a questionnaire. Hence, a variable may have a missing value because the respondent has answered a version of the questionnaire that does not include the specific question. The variable label indicates in which version(s) a specific question was asked, while the variable ‘VERSJON_SKJEMAX_TBL1’ indicates which version of the questionnaire each respondent has answered. If you want to use a variable not included in e.g. version A of a questionnaire, you can use ‘VERSJON_SKJEMAX_TBL1’ to remove version A-respondents from the data set.
 We urge you to consider how the specific question may be interpreted by the respondent. If a respondent has answered “No” to a question, he/she may not have answered the follow-up questions and the corresponding variable(s) will have a missing value. Some respondents may also have answered inconsistently, e.g. answered “No” when asked “Have you ever smoked?” and answered “Daily” when asked “Do you smoke now?”. Therefore, it is important to check for inconsistency.
 For twins and triplets, the mother fills out one questionnaire for each child after birth (i.e. questionnaire 6 months, 18 months, 3 years, 5 years, 7 years and 8 years). The mothers are told to fill in the section “About yourself” for the first child only. MoBa have not duplicated this information to the other sibling(s). These variables are usually missing for one of the twins or two of the triplets.
-## Major changes in version 12 (under arbeid)
-Questionnaire 2 (Q2)
-In the English data file for Questionnaire 2 (Q2CDW_V12), the labels for question T_10_2 (BB163-BB165) and T_10_3 (BB166-BB168) have been exchanged. The correct labels are:
-T_10_2 Sweetened muesli with dried fruit, nuts etc.; 10. How often have you eaten breakfast cereals or porridge on average since you became pregnant?
-T_10_3 Porridge, cream of wheat, rice etc.; 10. How often have you eaten breakfast cereals or porridge on average since you became pregnant?
-This is corrected in data files made available after 09.04.2021.
-## Major changes in version 11
-#### MoBa’s 18 year olds
-MoBa is currently working with an invitation for participating MoBa children that have turned 18 years of age. Data for children turning 18 years of age by the end of 2018 is not included in MoBa Version 11. A new version of MoBa will be published when this work is completed.
-#### 8 years questionnaire (Q8Y)
-The 8 years questionnaire (Q8Y) is considered to be complete in Version 11 (See wiki page Response rate).
-#### Father's questionnaire no. 2 (QF2)
-Data for Father's questionnaire no. 2 is included in Version 11. Se wiki page about Father's questionnaire no. 2 for more information.
-
-Medications listed as "other relief medicines" in question 13 are not yet coded for this questionnaire.
-#### Year for filling in questionnaire
-If the year given for filling in questionnaire is before 1999 the year is set to 9999. The belonging age for filling in questionnaire is set to missing.
-#### Age calculations
-Previous versions have had a minor error for a few subjects in calculated date differences. The date differences calculated have had a round off error giving 1 day wrong in difference for some participants.
-#### 5 years questionnaire (Q5Y)
-As a pilot of the 5 years questionnaire a subgroup was sent the 5 years questionnaire (version A) together with a separate questionnaire to the mother with "The International Personality Item Pool (IPIP) Big-Five factor markers". In version B of the 5 years questionnaire IPIP was included as the second last question (question 57). About 840 answered the pilot version of IPIP. In MoBa version 11, data from these has been put into the same variables as for IPIP in the B version (LL535-LL584, for BARN_NR = 1). Link to extra questionnaire sent with Q5y version A for a subgroup.
-FFQ calculation based on Questionnaire 2
-Calculations have been rerun with a few minor changes.
-
-## Major changes in version 10
-Changes in the coding of variables
-#### 3 years questionnaire (Q6)
-In previous MoBa versions dichotomous variables in the web version of the 3 years questionnaire was coded ‘0’ when there was no tick, instead of a blank (missing) value. In MoBa version 10 this has been corrected and these variables are now coded with a blank (missing) value when there is no tick.
-#### 7 years questionnaire (Q7y)
-In previous MoBa versions there has been an error in the response categories for question 21_2 and 21_3, regarding wood-burning heating in the home for the web version of the 7 years questionnaire. The response category “No” was coded “Yes” and vice versa. For MoBa version 10 this has been corrected.
 
 ## Questions
 If you have questions or comments about the data files or suspect that something can be incorrect in labels or other documentation, please contact us at MorBarnData@fhi.no.
