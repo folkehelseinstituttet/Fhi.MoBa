@@ -66,7 +66,7 @@ EXECUTE.
 FREQ DUPLIKAT .
 ```
 
-# Code in Stata
+# S2 Code in Stata
 
 ## Select those who have responded to all questionnaires
 ### S3 Code in SPSS
