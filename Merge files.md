@@ -10,7 +10,7 @@ In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
 ## Syntax
 
 ### SPSS
-```
+```stata
 /***************************************************************************************************
 * Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
 * Author: Elin Alsaker, Elin.Alsaker@fhi.no 
