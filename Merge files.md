@@ -10,6 +10,7 @@ In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
 ## Syntax
 
 ### SPSS
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
@@ -125,6 +126,7 @@ SAVE OUTFILE = "Z:\TMP\MB13MFR.SAV".
 ```
 
 ### Stata
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
