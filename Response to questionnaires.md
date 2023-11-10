@@ -8,7 +8,7 @@
   
 ## Select the first pregnancy for each woman
 
-# S1 - Code in SPSS 
+## S1 - Code in SPSS 
 ```
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
@@ -63,7 +63,7 @@ SELECT IF FORSTE=1.
 EXECUTE.
 
 *Frequency count on duplicates (1=duplicate - more than one pregnancy 0=only one pregnancy).
-FREQ DUPLIKAT .
+FREQ DUPLIKAT.
 ```
 
 # S2 - Code in Stata
