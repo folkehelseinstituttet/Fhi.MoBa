@@ -1,11 +1,12 @@
 # Search in strings
-- Syntax
-    - [SPSS](#spss)
-    - [Stata](#stata)
 
+#### Table of Contents
+- _[1. Syntax](#syntax)_ <br>
+	- _[1.1 SPSS syntax](#spss-syntax)_ <br>
+ 	- _[1.2 Stata syntax](#stata-syntax)_ <br>
 
 ## Syntax
-### SPSS
+### SPSS syntax
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -32,7 +33,7 @@ COMPUTE cerclage3=( ( INDEX(UPCASE(MORS_HELSE_FOER),'O343') + INDEX(UPCASE(MORS_
 FREQ cerclage3.
 ```
 
-### Stata
+### Stata syntax
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
