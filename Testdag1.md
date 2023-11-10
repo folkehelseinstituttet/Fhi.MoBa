@@ -1,5 +1,6 @@
 ## Notater
-1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre. 
+1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
+2. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
 
 
 ## Ferdig gjennomgått:
