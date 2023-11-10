@@ -4,7 +4,7 @@ Each file with questionnaire data from MoBa includes variables for age of child 
 ## Syntax
 ### Stata
 
-```
+```stata
 /***************************************************************************************************
 * Variable: Response time
 * Purpose: Generate a variable for response time by use of data from Q1, Q3, Q4 and MFR
