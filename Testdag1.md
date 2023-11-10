@@ -1,6 +1,7 @@
 ## Notater
 1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
 2. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
+3. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
 
 
 ## Ferdig gjennomgått:
