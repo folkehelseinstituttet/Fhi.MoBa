@@ -125,7 +125,7 @@ SAVE OUTFILE = "Z:\TMP\MB13MFR.SAV".
 ```
 
 ### Stata
-```
+```stata
 /***************************************************************************************************
 * Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
 * Author: Ingeborg Forthun, Ingeborg.Forthun@fhi.no
