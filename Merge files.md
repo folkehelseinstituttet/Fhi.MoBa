@@ -15,7 +15,6 @@ In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
 * Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
 * Author: Elin Alsaker, Elin.Alsaker@fhi.no 
 * Last updated: 09.09.2014 (version 8 of MoBa)
-* 
 ****************************************************************************************************/
 
 ***************************************************************************
@@ -127,4 +126,70 @@ SAVE OUTFILE = "Z:\TMP\MB13MFR.SAV".
 
 ### Stata
 ```
+/***************************************************************************************************
+* Purpose: Merge the first (Q1) and the third (Q3) questionnaire with MFR 
+* Author: Ingeborg Forthun, Ingeborg.Forthun@fhi.no
+* Last updated: 09.09.2014 (version 8 of MoBa)
+****************************************************************************************************/
+
+*Replace PREG_ID_XX with project specific identifier in the code below.
+clear
+
+*Directory/folder used -- Replace with the name of the folder where you have saved the files. 
+cd "Z:\MoBa"
+
+*Merge Q1 and MFR
+
+use "MFR.dta", clear
+ 
+sort PREG_ID_XX 
+
+*Generate a variable that indicates whether there is data in MFR.
+gen inMBR=1
+ 
+save "MFR_merge.dta"
+ 
+use "Q1.dta", clear
+ 
+sort PREG_ID_XX 
+
+*Generate a variable that indicates whether the respondent has responded to the first questionnaire. 
+gen inQ1=1
+
+/*This is a one to many merge (1:m) as PREG_ID_XX uniquely identifies the observations in Q1, 
+  but not in MFR (a pregnancy can result in more than one child). */
+merge 1:m PREG_ID_XX using "MFR_merge.dta"
+
+tab _merge //_merge indicates whether the pregnancy is only in Q1, only in MFR, or in both. 
+
+drop _merge
+
+*Save the file
+
+save "Q1MFR.dta", replace
+ 
+*Merge Q1 and MFR with Q3
+  
+use "Q3.dta", clear
+ 
+sort PREG_ID_XX
+
+*Generate a variable that indicates whether the respondent has answered Q3.
+gen inQ3=1
+ 
+merge 1:m PREG_ID_XX using "Q1MFR.dta"
+
+drop _merge
+
+*Save file
+
+save "MFRQ1Q3.dta", replace
+
+*If you want to only include those who have responded to Q1 and who are included in MFR, you can use the following command:
+
+keep if inQ1==1 & inMBR==1
+
+*If you want to only include those who have responded to Q1, Q3 and are included in MFR, you can use the following command:
+
+keep if inQ1==1 & inQ3==1 & MFR==1
 ```
