@@ -1,7 +1,7 @@
 # Search in strings
 - Syntax
-    - [SPPS](#SPSS)
-    - [Stata](#Stata)
+    - [SPSS](#spss)
+    - [Stata](#stata)
 
 ## Syntax
 ### SPSS
