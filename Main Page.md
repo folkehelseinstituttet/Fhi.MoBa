@@ -4,7 +4,7 @@
 
 **a web page that includes all documentation needed for analyzing data from MoBa.** 
 
-### MoBa research data files 
+### MoBa research data files (questionnaires) 
 
 An overview of MoBa-data files available to researchers can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/moba-research-data-files/) 
 
