@@ -105,7 +105,7 @@ drop n
 ```
 ## Select those who have responded to all questionnaires
 ### S3 - Code in SPSS
-```
+```stata
 /******************************************************************************************************************
 * Purpose: Select the women who have responded to both the first (Q1) 1, third ((Q3) and fourth questionnaire (Q4). 
 * Author: Elin Alsaker, Elin.Alsaker@fhi.no 
