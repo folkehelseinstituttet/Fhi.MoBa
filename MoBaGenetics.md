@@ -1,3 +1,3 @@
 # Genetic data in MoBa
 
-Link to [MoBa Genetics Wikipage](https://github.com/folkehelseinstituttet/mobagen/wiki/MoBa-Genetics-Wikipage)
+Information about genetic data in MoBa can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/). More information about the dataset, which files are available and how the quality control was performed, is available on the [MoBa Genetics Github site](https://github.com/folkehelseinstituttet/mobagen).
