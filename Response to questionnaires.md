@@ -9,7 +9,7 @@
 ## Select the first pregnancy for each woman
 
 ### S1 - Code in SPSS 
-```
+```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
 * Author: Elin Alsaker, Elin.Alsaker@fhi.no 
@@ -67,7 +67,7 @@ FREQ DUPLIKAT.
 ```
 
 ### S2 - Code in Stata
-```
+```stata
 /***************************************************************************************************
 * Purpose: Select the first pregnancy for each woman 
 * Author: Ingeborg Forhtun, Ingeborg.Forthun@fhi.no 
