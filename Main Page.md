@@ -11,6 +11,10 @@ An overview of MoBa-data files available to researchers can be viewed [here](h
 ### Genetic data in MoBa
 Information about genetic data in MoBa can be viewed [here](https://www.fhi.no/en/ch/studies/moba/for-forskere-artikler/genetic-data-from-the-norwegian-mother-and-child-cohort-study-mobagenetics/). More information about the dataset, which files are available and how the quality control was performed, is available on the [MoBa Genetics Github site](https://github.com/folkehelseinstituttet/mobagen). 
 
+### Phenotools
+Phenotools is an R package written by Laurie Hannigan.
+The goal of the phenotools package is to facilitate efficient and reproducible use of phenotypic data from MoBa and linked registry sources in the TSD environment. More information can be found on [MoBa Phenotools Github site](https://github.com/psychgen/phenotools).
+
 ### Would you like to contribute with syntax to MoBa's syntax library? 
 
 MoBa Wiki includes a syntax library for variables that may be helpful when analyzing data from MoBa. The aim is to build a more extensive syntax library covering different types of variables based on data from all MoBa questionnaires. 
