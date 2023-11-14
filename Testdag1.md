@@ -1,7 +1,10 @@
 ## Notater
 1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
-2. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
-3. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
+2. Fjernet avsnitt om å returnere syntax fil fra forskningsprosjekt
+3. Fjerne avsnitt om major changes in versjon før vi får oppdatert dette?
+4. La antall deltager i versjon 12 stå?????
+5. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
+6. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
 
 
 ## Ferdig gjennomgått:
