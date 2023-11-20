@@ -1,12 +1,10 @@
 # Select first pregnancy
 
 #### Table of Contents
-- _[1. Syntax](#syntax)_ <br>
-	- _[1.1 SPSS syntax](#spss-syntax)_ <br>
- 	- _[1.2 Stata syntax](#stata-syntax)_ <br>
+- _[1. Code in SPSS](#code-in-spss)_ <br>
+- _[2. Code in Stata](#code-in-stata)_ <br>
 
-## Syntax
-### SPSS syntax
+## Code in SPSS
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -65,7 +63,7 @@ FREQ DUPLIKAT .
 ```
 
 
-### Stata syntax
+## Code in Stata
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
