@@ -2,14 +2,14 @@
 
 #### Table of Contents
 - _[1. Select the first pregnancy for each woman](#select-the-first-pregnancy-for-each-woman)_ <br>
-	- _[1.1 SPSS syntax](#s1---spss-syntax)_ <br>
- 	- _[1.2 Stata syntax](#s2---stata-syntax)_ <br>
+	- _[1.1 Code in SPSS](#s1---code-in-spss)_ <br>
+ 	- _[1.2 Code in Stata](#s2---code-in-stata)_ <br>
 - _[2. Select those who have responded to all questionnaires](#select-those-who-have-responded-to-all-questionnaires)_ <br>
-	- _[1.3 SPSS syntax](#s3---spss-syntax)_ <br>
+	- _[1.3 Code in SPSS](#s3---code-in-spss)_ <br>
   
 ## Select the first pregnancy for each woman
 
-### S1 - SPSS syntax
+### S1 - Code in SPSS
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -68,7 +68,7 @@ EXECUTE.
 FREQ DUPLIKAT.
 ```
 
-### S2 - Stata syntax
+### S2 - Code in Stata
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -107,7 +107,7 @@ keep if n==1
 drop n
 ```
 ## Select those who have responded to all questionnaires
-### S3 - SPSS syntax
+### S3 - Code in SPSS
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /******************************************************************************************************************
