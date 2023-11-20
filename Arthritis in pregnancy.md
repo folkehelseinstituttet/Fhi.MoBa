@@ -1,5 +1,8 @@
 # Arthritis in pregnancy
 
+#### Table of Contents
+- _[1. Code in Stata](#code-in-stata)_ 
+  
 ### Code in Stata
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial due to differences in format in questions in MoBa and the DNBC, but no information from MoBa was considered lost when harmonizing the data.
 
