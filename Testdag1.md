@@ -1,11 +1,12 @@
 ## Notater
 1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
-2. Fjernet avsnitt om å returnere syntax fil fra forskningsprosjekt
-3. Fjerne avsnitt om major changes in versjon før vi får oppdatert dette?
-4. La antall deltager i versjon 12 stå?????
-5. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
-6. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
-7. Fjernet avsnitt "How to calculate response rate" (må lese igjennom og se om de er referert til dette savnttet i FAQ eller andre sider)
+2. Fjernet avsnitt om å returnere syntax fil fra forskningsprosjekt, da det er besluttet at vi ikke øsnker å motta syntax
+3. Fjerne avsnitt om major changes in versjon (Elin og Turid gjennomgår informasjon og ser om det er informasjon som vi ønsker å legge inn senere)
+4. Fjernet avsnitt om "How to calculate response rate". Vi leverer ikke ut status-fil lengre
+5. La antall deltager i versjon 12 stå?????
+6. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
+7. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
+8.
 
 
 ## Ferdig gjennomgått:
