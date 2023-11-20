@@ -2,8 +2,8 @@
 
 #### Table of Contents
 - _[1 Description of code](#description-of-code)_ <br>
-	- _[1.1 Code in SPSS syntax](#code-in-spss)_ <br>
-	- _[1.2 Code in Stata syntax](#code-in-stata)_ <br>
+	- _[1.1 Code in SPSS](#code-in-spss)_ <br>
+	- _[1.2 Code in Stata](#code-in-stata)_ <br>
 
 ## Description of code
 Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following:
