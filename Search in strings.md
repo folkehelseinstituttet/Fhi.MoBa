@@ -1,9 +1,8 @@
 # Search in strings
 
 #### Table of Contents
-- _[1. Syntax](#syntax)_ <br>
-	- _[1.1 SPSS syntax](#spss-syntax)_ <br>
- 	- _[1.2 Stata syntax](#stata-syntax)_ <br>
+- _[1 Code in SPSS](#code-in-spss)_ <br>
+- _[2 Code in Stata](#code-in-stata)_ <br>
 
 ## Syntax
 ### SPSS syntax
