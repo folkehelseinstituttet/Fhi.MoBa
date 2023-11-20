@@ -1,7 +1,7 @@
 ## Notater
 1. Fjernet avsnitt om SAS formater, da vi ikke leverer SAS filer lengre.
 2. Fjernet avsnitt om å returnere syntax fil fra forskningsprosjekt, da det er besluttet at vi ikke øsnker å motta syntax
-3. Fjerne avsnitt om major changes in versjon (Elin og Turid gjennomgår informasjon og ser om det er informasjon som vi ønsker å legge inn senere)
+3. Fjerne avsnitt om major changes in versjon (Elin og Turid går igjennom og trekker ut viktig punkt og legger til der det hører hjemme. Må ikke være med i første wiki publikasjon)
 4. Fjernet avsnitt om "How to calculate response rate". Vi leverer ikke ut status-fil lengre
 5. Fjernet avsnitt "User guides". PResentasjon fra 2006. Vi øsnker å se igjennom presentasjon og eventuelt legge denne til senere.
 6. 
