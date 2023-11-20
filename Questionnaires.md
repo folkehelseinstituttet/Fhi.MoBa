@@ -41,7 +41,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q3, Questionnaire 3 (around week 30 of pregnancy) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q3.pdf) and Q3_changes.pdf (in Norwegian:SKJEMA_3_endringer.pdf, SKJEMA_3_endringer_bilder.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file per January per 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file per January 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 3A | [Skjema3A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3A.pdf) | | | | 01.2000 - 07.2001 | 4.454 |
 | 3B | [Skjema3B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3B.pdf) | | | | 08.2001 - 11.2001 | 864 |
