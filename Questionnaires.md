@@ -13,8 +13,8 @@ Distributed to mother in invitation package 3 weeks before Ultrasound appointmen
 | Father A | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
 | Father B/C* | [Far B/C](PDF/MoBaQuestionnaires/noDef/FarC.pdf)  | | | [FarB/C.pdf](PDF/MoBaQuestionnaires/withDef/FarBC_def.pdf) | 06.2001 - 11.2005 | 42.744 | 
 | Father D/E | [Far D/E](PDF/MoBaQuestionnaires/noDef/FarD_FarE.pdf) | [Father D/E.pdf](PDF/MoBaQuestionnaires/English/FatherD.pdf) | [Far D/E.pdf](PDF/MoBaQuestionnaires/Annotated/FATHER_annotated_English.pdf) | [Far D/E.pd](PDF/MoBaQuestionnaires/withDef/FarDE_def.pdf)  | 11.2005 - 01.2009 | 34.498 |  
-
-_*Only minor changes in question formulation_
+ 
+ _*Only minor changes in question formulation_
 
 ### Q1, Questionnaire 1 (around week 17 of pregnancy) 
 Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q1.pdf) and `Q1_changes.pdf (in Norwegian:SKJEMA_1_endringer.pdf, Skjema1_Endringer_bilder.pdf)` for a description of changes between Versions. 
@@ -118,14 +118,6 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 | 8years B | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarB.pdf) | | | [Skjema8aarB.pdf](PDF/MoBaQuestionnaires/withDef/8aarB_def.pdf) | 07.2011 - 03.2012 | 3.823 |
 | 8years C | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarC.pdf) | Questionnaire8yC.pdf | | [Skjema8aarC.pdf](PDF/MoBaQuestionnaires/withDef/8aarC_def.pdf) | 05.2012 - 07.2017 | 35.508 |
 
-### Q13Y, Questionnaire 13 years
-See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-youth-diet.pdf) for a description of changes between Versions. 
-
-| Version | Original | English translation | Period of use | # in version 12 |
-| -- | -- | -- | -- | -- | 
-| Q13Y A | -- | -- | -- | -- | 
-| Q13Y B | -- | -- | -- | -- | 
-| Q13Y C | -- | -- | -- | -- | 
 
 ### QF2, Father's questionnaire no. 2 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/sporreskjemaer/instrument-documentation_fathers-questionnaire-2015.pdf). ´Some special notes about Father's questionnaire no. 2: Father_questionnaire_no._2´
