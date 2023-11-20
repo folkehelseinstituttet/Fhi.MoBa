@@ -5,7 +5,7 @@
 4. La antall deltager i versjon 12 stå?????
 5. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
 6. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
-7. Fjernet avsnitt om hvordan beregne svarprosent (må lese igjennom og se om de er referert til dette savnttet i FAQ eller andre sider)
+7. Fjernet avsnitt "How to calculate response rate" (må lese igjennom og se om de er referert til dette savnttet i FAQ eller andre sider)
 
 
 ## Ferdig gjennomgått:
