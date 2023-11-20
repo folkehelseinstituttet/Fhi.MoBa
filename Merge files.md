@@ -1,12 +1,11 @@
 # Merge files
 
 #### Table of Contents
-- _[1. Description of syntax](#description-of-syntax)_ <br>
-- _[2. Syntax](#syntax)_ <br>
-	- _[2.1 SPSS syntax](#spss-syntax)_ <br>
- 	- _[2.2 Stata syntax](#stata-syntax)_ <br>
+- _[1 Description of code](#description-of-code)_ <br>
+	- _[1.1 Code in SPSS syntax](#code-in-spss)_ <br>
+	- _[1.2 Code in Stata syntax](#code-in-stata)_ <br>
 
-## Description of syntax
+## Description of code
 Considering the large amount of data, each questionnaire is delivered as separate data files. When merging the files for analysis, it is important to be aware of the following:
 1.	The unit of observation in the files with data from the first (Q1, pregnancy week 17), second (Q2, FFQ) and third questionnaire (Q3, pregnancy week 30) is the pregnancy. The unit of observation in the files with data from the questionnaires after birth and the Medical Birth Registry of Norway (MBRN) is the child.
 2.	All files include a unique identifier for the pregnancy. The variable is called ‘PREG_ID_XX’. This variable uniquely identifies observations in the files with data from the questionnaires before birth. In the files with data from questionnaires after birth and MBRN, the variables 'PREG_ID_XX' and 'BARN_NR' together uniquely identifies each observation. BARN_NR is the child's order at birth.
@@ -14,9 +13,7 @@ Considering the large amount of data, each questionnaire is delivered as separat
 
 In the code below syntax/code for merging MBRN, Q1 and Q3 is shown.
 
-## Syntax
-
-### SPSS syntax
+### Code in SPSS 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -132,7 +129,7 @@ EXECUTE.
 SAVE OUTFILE = "Z:\TMP\MB13MFR.SAV".
 ```
 
-### Stata syntax
+### Code in stata
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
