@@ -5,7 +5,7 @@
 4. Fjernet avsnitt om "How to calculate response rate". Vi leverer ikke ut status-fil lengre
 5. Fjernet avsnitt "User guides". PResentasjon fra 2006. Vi øsnker å se igjennom presentasjon og eventuelt legge denne til senere.
 6. 
-7. La antall deltager i versjon 12 stå?????
+7. Fane Questionnaire: Erstattet Antall i Versjon 12, med antall gitt ved måned og dato for generering av V12 utleveringsfil for det gjeldende spørreskjemaet.
 8. Lagt til informasjon og link til github for 1. MoBa genetikk o g 2. Phenotools på Main Page.md
 9. Lagt inn ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page over alle blokker med syntax.
 10.
