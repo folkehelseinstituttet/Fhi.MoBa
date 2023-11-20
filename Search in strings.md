@@ -1,8 +1,8 @@
 # Search in strings
 
 #### Table of Contents
-- _[1 Code in SPSS](#code-in-spss)_ <br>
-- _[2 Code in Stata](#code-in-stata)_ <br>
+- _[1. Code in SPSS](#code-in-spss)_ <br>
+- _[2. Code in Stata](#code-in-stata)_ <br>
 
 ## Code in SPSS
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
