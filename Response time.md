@@ -1,14 +1,13 @@
 # Response time
 
 #### Table of Contents
-- _[1. Description of syntax](#description-of-syntax)_ <br>
-- _[2. Syntax](#syntax)_ <br>
- 	- _[2.1 Stata syntax](#stata-syntax)_ <br>
+- _[1. Description of code](#description-of-syntax)_ <br>
+ 	- _[1.1 Code in Stata](#code-in-stata)_ <br>
   
-## Description of syntax
+## Description of code
 Each file with questionnaire data from MoBa includes variables for age of child (in days) when the questionnaire was sent out, filled out and returned. These variables are called ALDERUTSENDT_Sx, ALDERUTFYLT_Sx and ALDERRETUR_Sx, and can be used to calculate response time. For the questionnaires filled out before birth these variables corresponds to number of days before the child is born. When generating variables for response time for these questionnaires, the questionnaire has to be merged with the file from the Medical Birth Registry of Norway (MBRN) in order to get information on gestational age in days.
-## Syntax
-### Stata syntax
+
+### Code in Stata
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
 ```stata
