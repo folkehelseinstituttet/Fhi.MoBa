@@ -1,5 +1,8 @@
 # Binge drinking in pregnancy
 
+#### Table of Contents
+- _[1. Code in Stata](#code-in-stata)_
+
 ### Code in Stata
 This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial and information was lost from MoBa when harmonizing. For more information, see comment in section [Alcohol consumption in pregnancy.md](Alcohol%20consumption%20in%20pregnancy.md)
 
