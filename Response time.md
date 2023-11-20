@@ -1,7 +1,7 @@
 # Response time
 
 #### Table of Contents
-- _[1. Description of code](#description-of-syntax)_ <br>
+- _[1. Description of code](#description-of-code)_ <br>
  	- _[1.1 Code in Stata](#code-in-stata)_ <br>
   
 ## Description of code
