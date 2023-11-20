@@ -4,8 +4,7 @@
 - _[1 Code in SPSS](#code-in-spss)_ <br>
 - _[2 Code in Stata](#code-in-stata)_ <br>
 
-## Syntax
-### SPSS syntax
+## Code in SPSS
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
@@ -32,7 +31,7 @@ COMPUTE cerclage3=( ( INDEX(UPCASE(MORS_HELSE_FOER),'O343') + INDEX(UPCASE(MORS_
 FREQ cerclage3.
 ```
 
-### Stata syntax
+## Code in Stata
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
