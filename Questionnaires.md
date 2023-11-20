@@ -8,7 +8,7 @@ There are several versions of each questionnaire. The original questionnaires ca
 ### QF, Father's questionnaire (around week 15 of pregnancy) 
 Distributed to mother in invitation package 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-father.pdf) and `SKJEMA_FAR_endringer.pdf (only in Norwegian)` for a description of changes between Version B/C and D/E. 
 
-| Version  | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019| 
+| Version  | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019| 
 | -- | -- | -- | -- | -- | -- | -- | 
 | Father A | [Far A](PDF/MoBaQuestionnaires/noDef/FarA.pdf) |  |  |  | 09.2000 - 05.2001  | Not included | 
 | Father B/C* | [Far B/C](PDF/MoBaQuestionnaires/noDef/FarC.pdf)  | | | [FarB/C.pdf](PDF/MoBaQuestionnaires/withDef/FarBC_def.pdf) | 06.2001 - 11.2005 | 42.744 | 
@@ -18,7 +18,7 @@ Distributed to mother in invitation package 3 weeks before Ultrasound appointmen
 
 ### Q1, Questionnaire 1 (around week 17 of pregnancy) 
 Distributed to mother 3 weeks before Ultrasound appointment. See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q1.pdf) and `Q1_changes.pdf (in Norwegian:SKJEMA_1_endringer.pdf, Skjema1_Endringer_bilder.pdf)` for a description of changes between Versions. 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 1A | [Skjema1A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1A.pdf) |  |  | [Skjema1A.pdf](PDF/MoBaQuestionnaires/withDef/1A_def.pdf)  | 06.1999 - 10.2000 | 2.564 |
 | 1B | [Skjema1B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema1B.pdf) |  |  | [Skjema1B.pdf](PDF/MoBaQuestionnaires/withDef/1B_def.pdf) | 11.2000 - 03.2003 | 20.399 |
@@ -30,7 +30,7 @@ _*Only minor changes in question formulation_
 ### Q2, Questionnaire 2 (around week 22 of pregnancy) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q2_2021.pdf) and SKJEMA_2_endringer.pdf (only in Norwegian) for a description of changes between Version B and C. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 2A | [Skjema2A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2A.pdf) | | | | 06.1999 - 02.2000 | 729 |
 | 2B | [Skjema2B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema2B.pdf) | | | | 02.2000 - 01.2002 | 8.582 |
@@ -41,7 +41,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q3, Questionnaire 3 (around week 30 of pregnancy) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q3.pdf) and Q3_changes.pdf (in Norwegian:SKJEMA_3_endringer.pdf, SKJEMA_3_endringer_bilder.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 3A | [Skjema3A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3A.pdf) | | | | 01.2000 - 07.2001 | 4.454 |
 | 3B | [Skjema3B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema3B.pdf) | | | | 08.2001 - 11.2001 | 864 |
@@ -53,7 +53,7 @@ _*Only minor changes in question formulation_
 ### Q4, Questionnaire 4 (6 months) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q4.pdf) and Q4_changes.pdf (in Norwegian:SKJEMA_4_endringer.pdf, SKJEMA_4_endringer_bilder.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 4A | [Skjema4A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4A.pdf) | | | | 08.2000 - 10.2002 | 7.951 |
 | 4B/C/D/E* | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/noDef/Skjema4B.pdf) | | | [Skjema4B/C/D/E.pdf](PDF/MoBaQuestionnaires/withDef/4BCDE_def.pdf) | 11.2002 - 01.2006 | 34.478 |
@@ -66,7 +66,7 @@ _*Only minor changes in question formulation_
 ### Q5, Questionnaire 5 (18 months) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q5.pdf) and Q5_changes.pdf (in Norwegian:SKJEMA_5_endringer.pdf, SKJEMA_5_endringer_bilder.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 5A | [Skjema5A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5A.pdf) | | | [Skjema5A.pdf](PDF/MoBaQuestionnaires/withDef/5A_def.pdf) | 12.2001 - 07.2003 | 5.007 |
 | 5B | [Skjema5B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5B.pdf) | | | [Skjema5B.pdf](PDF/MoBaQuestionnaires/withDef/5B_def.pdf) | 07.2003 - 03.2005 | 13.008 |
@@ -77,7 +77,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q6, Questionnaire 6 (3 years) 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q6.pdf) and Q6_changes.pdf (in Norwegian:SKJEMA_6_endringer.pdf, SKJEMA_6_endringer_bilder.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 6A | [Skjema6A.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6A.pdf) | | | [Skjema6A.pdf](PDF/MoBaQuestionnaires/withDef/6A_def.pdf) | 11.2004 - 03.2005 | 1.238 |
 | 6B | [Skjema6B.pdf](PDF/MoBaQuestionnaires/noDef/Skjema6B.pdf) | | | [Skjema6B.pdf](PDF/MoBaQuestionnaires/withDef/6B_def.pdf) | 04.2005 - 04.2006 | 7.014 |
@@ -93,7 +93,7 @@ _*A pilot study dividing questionnaire 6 into 3 parts and sent out as the child 
 ### Q5Y, Questionnaire 5 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-5year.pdf) and Q5year_changes.pdf (in Norwegian: SKJEMA_5aar_endringer.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 5years A | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarA.pdf) | | | [Skjema5aarA.pdf](PDF/MoBaQuestionnaires/withDef/5aarA_def.pdf) | 02.2010 - 12.2011 | 14.871 |
 | 5years B | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema5aarB.pdf) | [Questionnaire5yB.pdf](PDF/MoBaQuestionnaires/English/Q5yB.pdf) | | [Skjema5aarB.pdf](PDF/MoBaQuestionnaires/withDef/5aarB_def.pdf) | 05.2011 - 07.2014 | 26.746 |
@@ -101,7 +101,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q7Y, Questionnaire 7 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-dokumentasjon-q_7y_2016.pdf) and Q7years_changes.pdf (in Norwegian: SKJEMA_7_endringer.pdf) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 7years A | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarA.pdf) | | | [Skjema7aarA.pdf](PDF/MoBaQuestionnaires/withDef/7aarA_def.pdf) | 03.2008 - 08.2008 | 2053 |
 | 7years B | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/noDef/Skjema7aarB.pdf) | | | [Skjema7aarB.pdf](PDF/MoBaQuestionnaires/withDef/7aarB_def.pdf) | 10.2009 - 02.2010 | 4.783 |
@@ -111,7 +111,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### Q8Y, Questionnaire 8 years 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/instrumentdokumentasjon/instrument-documentation-q-8year.pdf) and SKJEMA_8_endringer.pdf (only in Norwegian) for a description of changes between Versions. 
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | 8years A Short | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarKort.pdf) | | | [Skjema8aarKort.pdf](PDF/MoBaQuestionnaires/withDef/8aarKort_def.pdf) | 02.2011 - 04.2011 | 231 |
 | 8years A Long | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/noDef/Skjema8aarLang.pdf) | | | [Skjema8aarLang.pdf](PDF/MoBaQuestionnaires/withDef/8aarLang_def.pdf) | 02.2011 - 05.2011 | 4.054 |
@@ -122,7 +122,7 @@ See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler
 ### QF2, Father's questionnaire no. 2 
 See [Instrument documentation](https://www.fhi.no/globalassets/dokumenterfiler/studier/den-norske-mor-far-og-barn--undersokelsenmoba/sporreskjemaer/instrument-documentation_fathers-questionnaire-2015.pdf). ´Some special notes about Father's questionnaire no. 2: Father_questionnaire_no._2´
 
-| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January 2019 |
+| Version | Original | English translation | Annotated | Variable labels | Period of use | Number of responses in file January per 2019 |
 | -- | -- | -- | -- | -- | -- | -- | 
 | A - Father | Far2.pdf | | | Far2.pdf | 12.2015 - 09.2016 | 29.345 |
 | A - Child | Far2_Om_Barnet.pdf | | | Far2_Om_Barnet.pdf | 12.2015 - 09.2016 | 34.910 |
