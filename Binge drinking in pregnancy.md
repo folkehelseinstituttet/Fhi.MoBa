@@ -1,7 +1,7 @@
 # Binge drinking in pregnancy
 
 ### Code in Stata
-This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial and information was lost from MoBa when harmonizing. For more information, see comment in section [Alcohol consumption in pregnancy.md](alcohol%20consumption%20in%20pregnancy.md)
+This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial and information was lost from MoBa when harmonizing. For more information, see comment in section [Alcohol consumption in pregnancy.md](Alcohol%20consumption%20in%20pregnancy.md)
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa MediaWiki page.
 
