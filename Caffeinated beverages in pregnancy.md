@@ -1,5 +1,9 @@
 # Caffeinated beverages in pregnancy
 
+#### Table of Contents
+- _[1. Number of cups and caffeine in mg](#number-of-cups-and-caffeine-in-mg)_ <br>
+- _[1.2. Code in Stata](#code-in-stata)_ <br>
+
 ## Number of cups and caffeine in mg
 ### Code in Stata
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as complete for cups of coffee and cups of tea as all information from MoBa was kept when harmonizing the data. The harmonization was regarded as partial for weekly consumption of Coca Cola, Pepsi etc. as more detailed information about number of cups of Coca Cola, Pepsi etc. per day in MoBa was lost when harmonizing the data. In the DNBC, only information on weekly, and not daily, consumption of Coca Cola, Pepsi etc. was available and a variable for weekly consuption of coke was therefore generated. As 1 cup a day of Coca Cola, Pepsi etc. is the smallest amount the respondents can give in the questionnaires in MoBa, weekly consumption of coke given by coke_1 and coke_2 and intake of caffeine in mg from coke might be underestimated when using the code below.
