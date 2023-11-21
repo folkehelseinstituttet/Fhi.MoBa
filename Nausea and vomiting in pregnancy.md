@@ -5,10 +5,10 @@
 
 ## Code in Stata
 
-Hyperemesis is not included here.
+[Hyperemesis](Hyperemesis.md) is not included here.
 
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial due to difference in format of questions in MoBa and the DNBC, but no information from MoBa was considered lost when harmonizing the data. However, information on use of medication during episodes of nausea and vomiting in the third questionnaire in MoBa was not used.
-In the code below, variables for response time for the first questionnaire (Q1) and the third questionnaire (Q3) are used.
+In the code below, variables for [response time](Response%20time.md) for the first questionnaire (Q1) and the third questionnaire (Q3) are used.
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
