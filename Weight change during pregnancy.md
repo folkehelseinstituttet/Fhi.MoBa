@@ -4,7 +4,7 @@
 - _[1. Weight gain in pregnancy](#weight-gain-in-pregnancy)_
     - _[1.1 Code in Stata](#1---code-in-stata)_
  - _[2. Weight loss in pregnancy](#weight-loss-in-pregnancy)_
-   - _[2.1 Code in Stata](#s---code-in-stata)_
+   - _[2.1 Code in Stata](#2---code-in-stata)_
 
 ## Weight gain in pregnancy
 
