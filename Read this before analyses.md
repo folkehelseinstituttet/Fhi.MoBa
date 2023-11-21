@@ -7,7 +7,6 @@
     - _[1.2 Variable names](#variable-names)_
     - _[1.3 Variable labels](#variable-labels)_
     - _[1.4 Coding of variables](#coding-of-variables)_
-    - _[1.5 Questionnaire on paper](#questionnaire-on-paper)_
 - _[2. Data quality](#data-quality)_
 - _[3. Use of data](#use-of-data)_
     - _[3.1 Generated variables](#generated-variables)_
