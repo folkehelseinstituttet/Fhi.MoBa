@@ -436,7 +436,98 @@ label variable nicotine_2 "Use of other types of nicotine from week 13 to questi
 tab nicotine_2, missing
 ```
 
+## Passive smoking
+
+### 4 - Code in Stata
+This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as complete and no information from MoBa was considered lost.
+
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
 ```stata
+/***************************************************************************************************
+* Variable: Passive smoking during pregnancy
+* Programmer: Ingeborg Forthun, Ingeborg.Forthun@fhi.no
+* Published: 15.09.2014 (version 8 of MoBa)
+* Questionnaires used: First questionnaire (Q1), third questionnaire (Q3)
+* Variables used:  Q1, AA1349 AA1350 AA1351 AA1352
+*		   Q3, CC1033 CC1034 CC1035 CC1036
+****************************************************************************************************/
+
+/*PASSIVE SMOKING AT TIME OF QUESTIONNAIRE 1
+
+AA1349: Are you exposed to passive smoking at home?
+Values:
+0=More than one answer
+1=No 
+2=Yes 
+
+AA1350: If yes, how many hours a day are you exposed to passive smoking?
+
+AA1351: Are you exposed to passive smoking at work?
+Values:
+0=More than one answer
+1=No 
+2=Yes 
+
+AA1352: If yes, how many hours a day are you exposed to passive smoking?
+*/
+
+use "Q1.dta", clear
+
+gen passive_smoke_1=.
+replace passive_smoke_1=0 if (AA1349==1|AA1351==1)
+
+/*passive_smoke_1 is coded 1 (Yes) if the respondent has answered yes in AA1349 or AA1351, 
+  or given more than one answer in AA1349 or AA1351, or have reported number of hours of passive
+  smoking either at home (AA1350) or at work (AA1352). 
+  In this code, more than one answer is interpreted as "Yes" but could also be coded missing. 
+*/
+replace passive_smoke_1=1 if (AA1349==2|AA1351==2|AA1349==0|AA1351==0|AA1350>0 & AA1350!=. ///
+|AA1352>0 & AA1352!=.)
+
+label define yesno 0 "No" 1 "Yes"
+label values passive_smoke_1 yesno
+ 
+label variable passive_smoke_1 "Passive smoking at time of questionnaire 1"
+
+tab passive_smoke_1, mis
+
+
+/*PASSIVE SMOKING AT TIME OF QUESTIONNAIRE 3
+
+Source: The Norwegian Mother and Child Cohort Study (MoBa)
+Files: Q3 (third questionnaire)
+
+CC1033: Are you exposed to passive smoking at home?
+Values: 
+0=More than one answer
+1=No 
+2=Yes 
+
+CC1034: No. of hrs
+
+CC1035: Are you exposed to passive smoking at work? 
+Values:
+1=No 
+2=Yes 
+0=More than one answer 
+
+CC1036: No. of hrs
+*/
+
+use "Q3.dta", clear
+
+gen passive_smoke_2=.
+
+*see explanation in code for passive_smoke_1
+replace passive_smoke_2=0 if (CC1033==1|CC1035==1)
+replace passive_smoke_2=1 if (CC1033==2|CC1035==2|CC1033==0|CC1035==0|CC1034>0 & CC1034!=. ///
+|CC1036>0 & CC1036!=.)
+ 
+*Add label
+label define yesno 0 "No" 1 "Yes"
+label values passive_smoke_2 yesno
+label variable passive_smoke_2 "Passive smoking at time of questionnaire 3"
+  
+tab passive_smoke_2, missing
 ```
