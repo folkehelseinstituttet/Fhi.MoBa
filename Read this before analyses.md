@@ -1,5 +1,20 @@
 # Read this before analyses
 #### Please read the following important information regarding data from the Norwegian Mother, Father and Child Cohort Study (MoBa) before analyzing the data.
+
+#### Table of Contents
+- _[1. Description](#description)_
+    - _[1.1 Versions of questionnaires](#versions-of-questionnaires)_
+    - _[1.2 Variable names](#variable-names)_
+    - _[1.3 Variable labels](#variable-labels)_
+    - _[1.4 Coding of variables](#coding-of-variables)_
+    - _[1.5 Questionnaire on paper](#questionnaire-on-paper)_
+- _[2. Data quality](#data-quality)_
+- _[3. Use of data](#use-of-data)_
+    - _[3.1 Generated variables](#generated-variables)_
+    - _[3.2 Merging data files](#merging-data-files)_
+    - _[3.3 Important considerations](#important-considerations)_
+- _[4. Questions](#questions)_
+
 # Description
 Most of the documentation at the MoBa Wiki web site is translated into English, although some documentation is only available in Norwegian.
 ## Versions of questionnaires
@@ -63,6 +78,6 @@ Not all questions are present in every version of a questionnaire. Hence, a vari
 We urge you to consider how the specific question may be interpreted by the respondent. If a respondent has answered “No” to a question, he/she may not have answered the follow-up questions and the corresponding variable(s) will have a missing value. Some respondents may also have answered inconsistently, e.g. answered “No” when asked “Have you ever smoked?” and answered “Daily” when asked “Do you smoke now?”. Therefore, it is important to check for inconsistency.
 For twins and triplets, the mother fills out one questionnaire for each child after birth (i.e. questionnaire 6 months, 18 months, 3 years, 5 years, 7 years and 8 years). The mothers are told to fill in the section “About yourself” for the first child only. MoBa have not duplicated this information to the other sibling(s). These variables are usually missing for one of the twins or two of the triplets.
 
-## Questions
+# Questions
 If you have questions or comments about the data files or suspect that something can be incorrect in labels or other documentation, please contact us at MorBarnData@fhi.no.
  
