@@ -5,7 +5,7 @@
 - _[2. Dietary questionnaire in pregancy (Q2)](#dietary-questionnaire-in-pregancy-q2)_
    - _[2.1 Nutrient intakes calculatied from food](#2---nutrient-intakes-calculatied-from-food)_
    - _[2.2 Caffeine calculation from food](#caffeine-calculation-from-food)_
-- _[3. Dietary questionnaire to youths (Q-youth diet)](#dietary-questionnaire-to-youths-q---youth-diet)_
+- _[3. Dietary questionnaire to youths (Q-youth diet)](#dietary-questionnaire-to-youths-q-youth-diet)_
    - _[3.1 Nutrient intakes calculatied from food](#3---nutrient-intakes-calculatied-from-food)_
 - _[4. Important papers](#important-papers)_
 
