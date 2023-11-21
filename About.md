@@ -1,7 +1,7 @@
 # About MoBa
 
 #### Table of Contents
-- _[1. About the Norwegian Mother, Father and Child Cohort Study (MoBa)](#about-the-norwegian-mother,-father-and-child-cohort-study)_
+- _[1. About the Norwegian Mother, Father and Child Cohort Study (MoBa)](#about-the-norwegian-mother,-father-and-child-cohort-study(moba))_
 - _[2. FAQ](#faq)_
 - _[3. Contact](#contact)_
      
