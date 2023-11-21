@@ -370,9 +370,70 @@ label variable cig_daily_3 "Number of cigarettes per day in the last part of pre
 sum cig_daily_3
 ```
 
+## Use of other type of nicotine
+
+### 3 - Code in Stata
+This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as complete and no information from MoBa was considered lost.
+
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
 ```stata
+/***************************************************************************************************
+* Variable: Use of other types of nicotine
+* Programmer: Ingeborg Forthun, Ingeborg.Forthun@fhi.no
+* Published: 15.09.2014 (version 8 of MoBa)
+* Questionnaires used: First questionnaire (Q1), third questionnaire (Q3)
+* Variables used: Q1, Q1, AA1372 AA1374 AA1376
+*                 Q3, CC1606 CC1608 CC1610 CC1063 CC1064 CC1065       
+****************************************************************************************************/
+
+/*USE OF OTHER TYPES OF NICOTINE (GUM, PATCHES AND INHALATOR) IN PREGNANCY PRIOR TO THE FIRST INTERVIEW/FIRST QUESTIONNAIRE
+
+First questionnaire
+
+AA1372 AA1374 AA1376: If you have used other kinds of nicotine indicate which and when you used them.  
+Values:
+1=Yes
+*/
+
+use "Q1.dta", clear
+
+generate nicotine_1=0
+replace nicotine_1=1 if (AA1372==1|AA1374==1|AA1376==1)
+
+label define yesno 1 "Yes" 0 "No"
+label values nicotine_1 yesno
+
+label variable nicotine_1 "Use of other types of nicotine prior to questionnaire 1"
+
+tab nicotine_1
+
+
+/*USE OF OTHER TYPES OF NICOTINE FROM PREGNANCY WEEK 13 TO THE TIME OF INTERVIEW 2/QUESTIONNAIRE 3
+
+Third questionnaire 
+
+Version A: CC1606, CC1608, CC1610: If you have used other types of nicotine, check the correct box for type
+and when you used it. 
+
+Version B/C/E: CC1063 CC1064 CC1065: Have you used other forms of nicotine after the 13th week
+of pregnancy?
+Values:
+1=No
+2=Yes
+*/
+
+use "Q3.dta", clear
+
+generate nicotine_2=0 
+replace nicotine_2=1 if CC1606==1|CC1608==1|CC1610==1|CC1063==2|CC1064==2|CC1065==2
+
+label define yesno 1 "Yes" 0 "No"
+label values nicotine_2 yesno
+
+label variable nicotine_2 "Use of other types of nicotine from week 13 to questionnaire 3"
+
+tab nicotine_2, missing
 ```
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
