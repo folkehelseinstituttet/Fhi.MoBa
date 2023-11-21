@@ -1,4 +1,9 @@
 # Coding of occupation and industry
+
+#### Table of Contents
+- _[1. Coding of mother's and father's industry](#coding-of-mother's-and-father's-industry)_ <br>
+- _[2. Coding of mother's and father's occupation](#coding-of-mother's-and-father's-occupation)_ <br>
+
 Mother's and father's occupation and industry given in questionnaire 1 is coded for approximately 70% of the participants.
 
 ## Coding of mother's and father's industry
