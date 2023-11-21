@@ -2,13 +2,13 @@
 
 #### Table of Contents
 - _[1. Alcohol consumption before and during pregnancy](#alcohol-consumption-before-and-during-pregnancy)_
-    - _[1.1 Code in Stata](#s1---code-in-stata)_
+    - _[1.1 Code in Stata](#1---code-in-stata)_
     - _[1.2 Description of code](#description-of-code)_
  - _[2. Binge drinking in pregnancy](#binge-drinking-in-pregnancy)_
-   - _[2.1 Code in Stata](#s2---code-in-stata)_
+   - _[2.1 Code in Stata](#2---code-in-stata)_
 
 ## Alcohol consumption before and during pregnancy
-### S1 - Code in Stata
+### 1 - Code in Stata
 The code below was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial as information was lost from MoBa when harmonizing, and due to the substantial amount of missing for the generated variables in MoBa. The questionnaires in MoBa includes information about how often the respondents consume alcohol and how many units of alcohol they usually consume each time. This information was recoded to construct a mesaure of total alcohol consumption per week as this harmonized better with the questions in the DNBC. Therefore, not all information was kept from MoBa when harmonizing the data. Some women might have reported either how often they drink alcohol during pregnancy or how much they drink each time. These women were coded missing as we did not have information on both and therefore could not construct a measure of consumption per week.
 The suggested code for variables for alcohol consumption during pregnancy (alcohol_1, alcohol_2 and alcohol_3) gives weekly consumption of alcohol at time of filling out the questionnaire. Below is suggested code for binge-drinking. The code for binge-drinking generate variables that give number of episodes of binge-drinking so far in pregnancy. A number of women have had one or more binge-drinking episodes during pregnancy, but report that they do not drink alcohol at present when they respond to the interview/questionnaire. These women will be coded 0 for alcohol consumption, but "1-2 episodes" or "More than 2 episodes" for binge-drinking. Because of this, one may consider to combine the variables for alcohol consumption and binge-drinking if one wants to include alcohol consumption during pregnancy as a variable(s) in the analyses.
 
@@ -388,7 +388,7 @@ sum alcohol_3
 ```
 
 ## Binge drinking in pregnancy
-### S2 - Code in Stata
+### 2 - Code in Stata
 This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial and information was lost from MoBa when harmonizing. For more information, see comment above.
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
