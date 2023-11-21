@@ -21,7 +21,6 @@ Information on vagnial bleeding in pregnancy is also available in the Medical Bi
 *                 CC315-CC338
 ****************************************************************************************************/
 
- 
 /*
 First questionnaire
 
