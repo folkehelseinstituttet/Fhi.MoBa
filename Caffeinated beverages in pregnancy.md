@@ -2,7 +2,7 @@
 
 #### Table of Contents
 - _[1. Number of cups and caffeine in mg](#number-of-cups-and-caffeine-in-mg)_ <br>
-- _[1.2. Code in Stata](#code-in-stata)_ <br>
+  - _[1.2. Code in Stata](#code-in-stata)_ <br>
 
 ## Number of cups and caffeine in mg
 ### Code in Stata
