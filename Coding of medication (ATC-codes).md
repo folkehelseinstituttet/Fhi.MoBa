@@ -1,5 +1,9 @@
 # Coding of medication (ATC-codes)
 
+#### Table of Contents
+- _[1. Coding of medications from open ended text fields](#coding-of-medications-from-open-ended-text-fields)_ <br>
+- _[2. Other codes used (not ATC-codes):](#other-codes-used-(not-ATC---codes):)_ <br>
+
 ## Coding of medications from open ended text fields
 
 All medicines stated in questionnaires during pregnancy and up until the child is 7 years have been coded using the Anatomical Therapeutic Chemical (ATC) classification system. Data (code) is stored in variables named with a suffix K (for coded). The names correspond to the name for variables with the belonging open ended text field. There is a hyphen after each ATC-code (-). Where there is more than one given medication in a specific field, the ATC-codes are separated by hyphens (-). The procedure for coding of medications in MoBa (only available in Norwegian) are described in: [Koderutiner.pdf](PDF/CodingMoBa/Koderutiner.pdf) 
@@ -16,7 +20,7 @@ The contents of this variable can for example be “B03BB01-E000009-“,
 meaning the women has specified a medicine with ATC-code “B03BB01” and an iron 
 supplement (see the list below). <br> 
 
-# Other codes used (not ATC-codes):
+## Other codes used (not ATC-codes):
 
  | Code  | Medication used for (grouped)  | 
  | -- | -- | 
