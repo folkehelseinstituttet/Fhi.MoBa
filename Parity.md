@@ -38,6 +38,8 @@ FREQUENCIES
 ```
 
 ## Code in Stata 
+
+##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 ```stata
 /***************************************************************************************************
 * Variable: Parity
