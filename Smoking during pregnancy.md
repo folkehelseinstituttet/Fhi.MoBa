@@ -30,7 +30,6 @@ This code was written for the purpose of harmonizing data from MoBa with data fr
 *                 Q4, DD732 DD1114 DD738
 ****************************************************************************************************/
  
- 
 /*MoBa
 
 Source: The Norwegian Mother and Child Cohort Study (MoBa)
@@ -194,9 +193,181 @@ label variable smoke_3 "Smoking in the last part of pregnancy"
 tab smoke_3, missing
 ```
 
+## Number of cigarettes
+
+### Code in Stata
+This syntax was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as complete and no information from MoBa was considered lost.
+
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
 
 ```stata
+/***************************************************************************************************
+* Variable: Number of cigarettes per day during pregnancy
+* Programmer: Ingeborg Forthun, Ingeborg.Forthun@fhi.no
+* Published: 15.09.2014 (version 8 of MoBa)
+* Questionnaires used: First questionnaire (Q1), third questionnaire (Q3), fourth questionnaire (Q4)
+* Variables used: Q1, AA1357 AA1358 AA1979 AA1355 AA1356
+*                 Q3, CC1038 CC1039 CC1037
+*                 Q4, DD738 DD1114 DD732    
+****************************************************************************************************/
+
+/*NUMBER OF CIGARETTES PER DAY AT TIME OF QUESTIONNAIRE 1
+
+First questionnaire
+
+Version A: AA1979: Do you smoke or have you ever smoked?
+Values:
+1=Never
+2=Sometimes
+3=Daily
+4=Stopped smoking
+ 
+Version B/C/E: AA1355: Have you ever smoked?
+Values:
+1=No
+2=Yes
+ 
+Version A/B/C/E: AA1356: Do you smoke now (after you became pregnant)?
+Values:
+1=No
+2=Sometimes
+3=Daily
+4=No+Sometimes
+5=No+Daily
+6=Sometimes+Daily
+ 
+AA1357: Number of cigaretter per week
+ 
+AA1358: Number of cigaretter per day
+*/ 
+
+use "Q1.dta", clear
+
+generate cig_daily_1=AA1358
+ 
+*Cigarettes/week
+generate cig_weekly=AA1357/7
+
+/*cig_daily_1=cig_weekly if: 
+1. the respondents has not reported cigarettes per day in (AA1358) and cig_weekly is not missing, or
+2. the respondent has indicated a larger amount of cigarettes per day in AA1357 than in AA1358. 
+*/
+replace cig_daily_1=cig_weekly if ((cig_daily_1==.|cig_daily_1==0) & cig_weekly!=.) | (cig_weekly>cig_daily_1 & cig_weekly!=.)  
+ 
+/*cig_daily_1 is coded 0 if cig_daily_1 is missing and the respondent has answered "No"
+for "Have you ever smoked?" or "No" for "Are you smoking now?" */
+replace cig_daily_1=0 if cig_daily_1==. & (AA1979==1|AA1355==1|AA1356==1)
+
+/*cig_daily_1 is coded missing if cig_daily_1=0 and the respodent has answered
+"Sometimes", "Daily", "No + Sometimes", "No + Daily" or "Sometimes + Daily" 
+when asked "Do you smoke now?*/ 
+replace cig_daily_1=. if cig_daily_1==0 & inlist(AA1356, 2,3,4,5,6)
+
+format cig_daily_1 %9.1f
+ 
+drop cig_weekly
+
+label variable cig_daily_1 "Number of cigarettes per day at time of questionnaire 1"
+
+sum cig_daily_1
+
+
+/*NUMBER OF CIGARETTES PER DAY AT TIME OF QUESTIONNAIRE 3
+
+Third questionnaire
+
+CC1037: Do you smoke at present?
+Values:
+1=No
+2=Sometimes
+3=Daily
+4=No + Sometimes
+5=Sometimes + Daily
+ 
+CC1038: Cigarettes per week
+ 
+CC1039: Cigarettes per day
+*/
+
+use "Q3.dta", clear
+
+*Cigarettes/day
+generate cig_daily_2=CC1039
+ 
+*Cigarettes/week
+generate cig_weekly=CC1038/7
+ 
+replace cig_daily_2=cig_weekly if ((cig_daily_2==.|cig_daily_2==0) & cig_weekly!=.) | (cig_weekly>cig_daily_2 & cig_weekly!=.)  
+ 
+format cig_daily_2 %9.1f
+ 
+/*cig_daily_2 is coded 0 if cig_daily_2 is missing and respondent has answered "No"
+for "Do you smoke at present?" */
+replace cig_daily_2=0 if cig_daily_2==. & CC1037==1
+
+/*cig_daily_2 is coded missing if cig_daily_2=0 and respondent has answered "Sometimes", 
+"Daily", "No + Sometimes" or "Sometimes + Daily" when asked "Do you smoke at present?"*/
+replace cig_daily_2=. if cig_daily_2==0 & inlist(CC1037, 2,3,4,5)
+
+drop cig_weekly
+label variable cig_daily_2 "cig_daily_2"
+
+label variable cig_daily_2 "Number of cigarettes per day at time of questionnaire 3"
+
+sum cig_daily_2
+
+
+/*NUMBER OF CIGARETTES PER DAY IN THE LAST THREE MONTHS OF PREGNANCY 
+
+Fourth questionnaire
+
+DD732: What were your and your partner/husbands smoking habits during the last 3 months of your pregnancy and in the period
+after the birth? 
+Values:
+1=Didn't smoke
+2=Smoked sometimes
+3=Smoked every day
+4=Didn't smoke + Smoked sometimes
+5=Didn't smoke + Smoked daily
+6=Smoked sometimes + Smoked daily
+7=Didn't smoke + Smoked sometimes + Smoked daily
+ 
+DD1114: Cigarettes per week
+ 
+DD738: Cigarettes per day
+*/
+
+use "Q4.dta", clear
+
+/*Q4 includes one observation for each child. In multiple births information about number of cigarettes will in most cases 
+  only be present for one child as the mother answered the quetions regarding herself only in one of the questionnaires. 
+  To get information on all children in the same birth, the information needs to be duplicated. */  
+
+*Cigarettes daily
+generate cig_daily_3=DD738
+ 
+*Cigarettes weekly
+generate cig_weekly=DD1114/7
+
+replace cig_daily_3=cig_weekly if ((cig_daily_3==.|cig_daily_3==0) & cig_weekly!=.) | (cig_weekly>cig_daily_3 & cig_weekly!=.)  
+ 
+format cig_daily_3 %9.1f
+ 
+*cig_daily_3 is coded 0 if the respondent has answered "Didn't smoke" for DD732
+replace cig_daily_3=0 if cig_daily_3==. & DD732==1
+
+/*cig_daily_3 is coded missing if cig_daily_3=0 and the respondent has answered "Smoked sometimes"
+"Smoked every day", "Didn't smoke + Smoked sometimes", "Didn't smoke + Smoked daily", "Smoked sometimes + Smoked daily"
+or "Didn't smoke + Smoked sometimes + Smoked daily" when asked for DD732*/
+replace cig_daily_3=. if cig_daily_3==0 & inlist(DD732, 2,3,4,5,6,7)
+
+drop cig_weekly
+
+label variable cig_daily_3 "cig_daily_3"
+
+label variable cig_daily_3 "Number of cigarettes per day in the last part of pregnancy"
+
+sum cig_daily_3
 ```
 
 ##### MoBa is not responsible for any errors in the study results that are caused by errors in code or documentation at the MoBa Wiki page.
