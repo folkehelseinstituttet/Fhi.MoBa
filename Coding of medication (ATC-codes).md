@@ -2,7 +2,6 @@
 
 #### Table of Contents
 - _[1. Coding of medications from open ended text fields](#coding-of-medications-from-open-ended-text-fields)_ <br>
-- _[2. Other codes used (not ATC-codes):](#other-codes-used-(not-ATC---codes):)_ <br>
 
 ## Coding of medications from open ended text fields
 
@@ -20,7 +19,7 @@ The contents of this variable can for example be “B03BB01-E000009-“,
 meaning the women has specified a medicine with ATC-code “B03BB01” and an iron 
 supplement (see the list below). <br> 
 
-## Other codes used (not ATC-codes):
+### Other codes used (not ATC-codes):
 
  | Code  | Medication used for (grouped)  | 
  | -- | -- | 
