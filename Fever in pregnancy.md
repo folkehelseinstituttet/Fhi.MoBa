@@ -2,7 +2,7 @@
 
 #### Table of Contents
 - _[1. Code in Stata](#code-in-stata)_ <br>
-  - _[1.1 Description of code](#description-of-code)_ <br> _
+  - _[1.1 Description of code](#description-of-code)_ <br> 
 
 ## Code in Stata
 This code was written for the purpose of harmonizing data from MoBa with data from the Danish National Birth Cohort (DNBC) for the MOBAND CP study. The harmonization was regarded as partial due to difference in format of questions in MoBa and the DNBC, but no information from MoBa was considered lost when harmonizing the data.
