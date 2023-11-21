@@ -1,5 +1,14 @@
 # Dietary data
 
+#### Table of Contents
+- _[1. Important considerations when working with data from food frequency questionnaires](#important-considerations-when-working-with-data-from-food-frequency-questionnaires)_
+- _[2. Dietary questionnaire in pregancy (Q2)](#dietary-questionnaire-in-pregancy-(Q2))_
+   - _[2.1 Nutrient intakes calculatied from food](#2---nutrient-intakes-calculatied-from-food)_
+   - _[2.2 Caffeine calculation from food](#caffeine-calculation-from-food)_
+- _[3. Dietary questionnaire to youths (Q-youth diet)](#dietary-questionnaire-to-youths-(q---youth-diet))_
+   - _[3.1 Nutrient intakes calculatied from food](#3---nutrient-intakes-calculatied-from-food)_
+- _[4. Important papers](#important-papers)_
+
 #### Important considerations when working with data from food frequency questionnaires**
 
 Food frequency questionnaires are relatively crude instruments asking respondents to recall and report the average intake of various food and drink items during a defined time. The ability and willingness to respond accurately to these questions differ between respondents. Both overreporting and underreporting will occur.  
@@ -8,7 +17,7 @@ MoBa does not exclude any reports based on quality of reporting before deliverin
 
 # Dietary questionnaire in pregancy (Q2) 
 
-## Nutrient intakes calculatied from food
+## 2 - Nutrient intakes calculatied from food
 
 ### Assessment of cut-off values 
 As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
@@ -121,7 +130,7 @@ _Table 1 Summary caffeine groups_
 
 
 # Dietary questionnaire to youths (Q-youth diet) 
-## Nutrient intakes calculatied from food
+## 3 - Nutrient intakes calculatied from food
 ### Assessment of cut-off values 
 As most nutrients correlate strongly with total energy intake, the most common approach for excluding individuals with improbable dietary reports is to use cut-off values for biological plausibility of the calculated energy intake.  
 
