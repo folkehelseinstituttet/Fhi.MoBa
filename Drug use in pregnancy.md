@@ -3,7 +3,7 @@
 #### Table of Contents
 - _[1. Illicit drug use](#illicit-drug-use)_ <br>
  	- _[1.1 Code in Stata](#1---code-in-stata)_ <br>
-- _[2. Hashish use](#illicit-drug-use)_ <br>
+- _[2. Hashish use](#hashish-use)_ <br>
  	- _[2.1 Code in Stata](#2---code-in-stata)_ <br>
 
 ## Illicit drug use
