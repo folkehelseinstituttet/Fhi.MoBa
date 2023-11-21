@@ -19,8 +19,6 @@ It is not possible to distinguish between different types of diabetes as the res
 * Variables used: AA510, AA513-AA516, AA519, AA522-AA525
 ****************************************************************************************************/
 
-
-
 /*
 Diabetes treated with insulin
 
