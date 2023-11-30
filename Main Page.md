@@ -2,7 +2,7 @@
 
 ## Welcome to MoBa Wiki
 
-**a web page that includes all documentation needed for analyzing data from MoBa.** 
+**a web page that includes all documentation needed for analyzing data from MoBa.** On this wiki-page we have gathered relevant information and documentation for researchers who are working with data from the Norwegian Mother, Father and Child Cohort Study (MoBa).
 
 ### MoBa research data files
 
