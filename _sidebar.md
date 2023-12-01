@@ -22,13 +22,13 @@
 * [[Select first pregnancy]]
 
 #### Syntax for creating variables
+* [[Body mass index pre-pregnancy]]
 * [[Hyperemesis]]
 * [[Parity]]
 
 #### Syntax from MOBAND CP study
 * [[Alcohol consumption in pregnancy]]
 * [[Arthritis in pregnancy]]
-* [[Body mass index pre-pregnancy]]
 * [[Caffeinated beverages in pregnancy]]
 * [[Diabetes in pregnancy]]
 * [[Drug use in pregnancy]]
