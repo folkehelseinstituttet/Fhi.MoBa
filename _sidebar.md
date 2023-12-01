@@ -25,6 +25,7 @@
 * [[Body mass index pre-pregnancy]]
 * [[Hyperemesis]]
 * [[Parity]]
+* [[Weight change during pregnancy]]
 
 #### Syntax from MOBAND CP study
 * [[Alcohol consumption in pregnancy]]
@@ -40,7 +41,7 @@
 * [[Thyroid disorder in pregnancy]]
 * [[Urinary infection in pregnancy]]
 * [[Vaginal bleeding in pregnancy]]
-* [[Weight change during pregnancy]]
+
 
 
 
