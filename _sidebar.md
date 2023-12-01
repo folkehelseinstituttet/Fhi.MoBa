@@ -20,22 +20,10 @@
 * [[Response to questionnaires]]
 * [[Search in strings]]
 * [[Select first pregnancy]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
 
-
+#### Syntax for creating variables
 * [[Hyperemesis]]
 * [[Parity]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
 
 #### Syntax from MOBAND CP study
 * [[Alcohol consumption in pregnancy]]
@@ -49,11 +37,10 @@
 * [[Inflammatory bowel disease in pregnancy]]
 * [[Nausea and vomiting in pregnancy]]
 * [[Smoking during pregnancy]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
-* [[]]
+* [[Thyroid disorder in pregnancy]]
+* [[Urinary infection in pregnancy]]
+* [[Vaginal bleeding in pregnancy]]
+* [[Weight change during pregnancy]]
 
 
 
