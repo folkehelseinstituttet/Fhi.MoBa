@@ -1,7 +1,7 @@
 * [[Main Page]]
 * [[About]]
 
-### Documentation
+#### Documentation
 * [[Read this before analyses]]
 * [[Questionnaires]]
 * [[Generated variables]]
@@ -12,22 +12,22 @@
 * [[MoBaGenetics]]
 * [[Phenotools]]
 
-### MoBa Syntax Library
+#### MoBa Syntax Library
 
-#### Technical syntax
+##### Technical syntax
 * [[Merge files]]
 * [[Response time]]
 * [[Response to questionnaires]]
 * [[Search in strings]]
 * [[Select first pregnancy]]
 
-#### Syntax for creating variables
+##### Syntax for creating variables
 * [[Body mass index pre-pregnancy]]
 * [[Hyperemesis]]
 * [[Parity]]
 * [[Weight change during pregnancy]]
 
-#### Syntax from MOBAND CP study
+##### Syntax from MOBAND CP study
 * [[Alcohol consumption in pregnancy]]
 * [[Arthritis in pregnancy]]
 * [[Caffeinated beverages in pregnancy]]
