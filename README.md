@@ -1,0 +1,1 @@
+Go to the [wiki](https://github.com/folkehelseinstituttet/Fhi.MoBa/wiki)
